@@ -1,10 +1,10 @@
 ---
 
-title: "Mayo Clinic Drugs and Supplements Overview"
-description: "Evidence-based overview of selected herbs, supplements, and vitamins summarized from Mayo Clinic Drugs & Supplements pages, including uses, research findings, safety considerations, and drug interactions."
-source: "Mayo Clinic – Drugs & Supplements"
-document_type: "supplement_reference_summary"
-language: "en"
+title: Mayo Clinic Drugs and Supplements Overview
+description: Evidence-based overview of selected herbs, supplements, and vitamins from Mayo Clinic Drugs and Supplements pages, including uses, research findings, safety considerations, and drug interactions.
+source: Mayo Clinic - Drugs and Supplements
+document_type: supplement_reference_summary
+language: en
 tags:
 
 * integrative-medicine
@@ -33,10 +33,11 @@ tags:
 * Tea Tree Oil
 * Vitamin A
 * Vitamin B-6
-  audience: "Clinicians, pharmacists, and informed consumers seeking evidence-based information on supplements."
-  embedding_notes: "Chunk primarily by H2/H3 headings; treat each supplement section as a self-contained unit for retrieval."
+  audience: Clinicians, pharmacists, and informed consumers seeking evidence-based information on supplements.
+  embedding_notes: Chunk primarily by H2 and H3 headings; treat each supplement section as a self-contained unit for retrieval.
 
 ---
+
 
 
 # Mayo Clinic Drugs and Supplements Overview
