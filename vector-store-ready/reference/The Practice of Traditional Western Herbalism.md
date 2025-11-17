@@ -1,3 +1,59 @@
+---
+
+title: "The Practice of Traditional Western Herbalism – Wellness Playbook"
+author: "Matthew Wood"
+doc_id: "practice-traditional-western-herbalism-wellness-playbook"
+doc_type: "wellness_playbook"
+domain: "traditional_western_herbalism"
+language: "en"
+
+categories:
+
+* "herbalism"
+* "energetic_medicine"
+* "holistic_health"
+
+primary_frameworks:
+
+* "four_qualities"
+* "six_tissue_states"
+* "three_primary_constitutions"
+
+tissue_states:
+
+* "heat_excitation"
+* "cold_depression"
+* "damp_flowing_relaxation"
+* "damp_stagnation_torpor"
+* "dryness_atrophy"
+* "wind_constriction"
+
+herbal_actions:
+
+* "sedative"
+* "stimulant"
+* "alterative"
+* "astringent"
+* "tonic"
+* "carminative"
+* "refrigerant"
+
+rag_intent: "clinical_pattern_matching_and_herbal_remedy_selection"
+
+tags:
+
+* "energetics_hot_cold_damp_dry"
+* "constitutional_types_nervous_motive_visceral"
+* "ayurvedic_analogs_vata_pitta_kapha"
+* "tongue_diagnosis"
+* "skin_signs"
+* "pattern_based_diagnosis"
+* "materia_medica_example_remedies"
+* "safety_contraindications"
+* "dosage_small_specific_remedies"
+
+---
+
 # The Practice of Traditional Western Herbalism – Wellness Playbook
 *by Matthew Wood*
 
