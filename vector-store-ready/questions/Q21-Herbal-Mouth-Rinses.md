@@ -1,6 +1,6 @@
 ---
 title: "Can Herbal Mouth Rinses Replace Conventional Toothpaste or Mouthwash?"
-question_number: 43
+question_number: 21
 category: "Herbal Therapeutics - Oral Health"
 tags: ["oral hygiene", "mouthwash", "toothpaste", "chamomile", "tea tree", "peppermint", "gum health", "gingivitis"]
 evidence_level: "A-B"

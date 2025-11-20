@@ -1,6 +1,6 @@
 ---
 title: "How do I Differentiate Between Authentic and Adulterated Herbal Supplements?"
-question_number: 44
+question_number: 22
 category: "Herbal Safety - Quality Control"
 tags: ["quality", "adulteration", "authenticity", "supplements", "safety", "testing", "USP", "NSF"]
 evidence_level: "A-B"
