@@ -50,6 +50,18 @@ study_counts:
 clinical_alert: "CRITICAL: Long-term high-dose zinc (>40mg/day) can induce copper deficiency. Avoid intranasal zinc due to permanent smell loss risk."
 ---
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Zinc Deficiency** (Grade A), **Childhood Diarrhea** (Grade A), **Common Cold** (Grade B), **Wound Healing** (Grade B). |
+| **Key Constituents** | **Elemental Zinc** (Mineral). |
+| **Mechanism of Action** | **Cofactor for >300 Enzymes**, **Gene Expression** (Zinc Fingers), **Immune Modulation**, **Antioxidant**. |
+| **Evidence Grade** | **Grade A:** Deficiency, Diarrhea, AMD. **Grade B:** Common Cold, Acne, Wound Healing. |
+| **Safety Profile** | **Safe at RDA**. **Toxicity >50mg/day**. **Copper Deficiency Risk** (Chronic High Dose). |
+| **Drug Interactions** | **Antibiotics** (Quinolones/Tetracyclines - Chelation). **Penicillamine**. **Diuretics**. |
+| **Dosing** | **15-30 mg/day** (Moderate). **Up to 50 mg/day** (Short-term). **RDA:** 11mg (M), 8mg (F). |
+
 ## Main Topic
 
 Zinc is an essential trace element involved in more than 100 enzymes and multiple structural and regulatory proteins. It is critical for immune defense, growth and development, wound healing, reproductive health, taste and smell, and normal fetal and childhood development. Total body stores are limited and cannot buffer prolonged low intake, so zinc must be consumed regularly from diet or supplements.
@@ -186,6 +198,13 @@ Management of toxicity involves discontinuing excess zinc, correcting associated
 - **Genetic disorders**: Acrodermatitis enteropathica (SLC39A4 mutation) causes severe, life-threatening zinc malabsorption requiring lifelong supplementation.
 
 ---
+
+## Quality, Supply Chain & Market Ethics
+
+**Market Status:** Widely available as a commodity mineral.
+**Supply Chain:** Mined globally. Refined into various salts (gluconate, sulfate, citrate, picolinate, bisglycinate).
+**Quality Concerns:** Heavy metal contamination (lead, cadmium) in low-quality supplements. Bioavailability varies significantly by form (Chelated/Picolinate > Sulfate/Oxide).
+**Ethics:** Mining practices vary; ensure reputable suppliers with heavy metal testing.
 
 ## Conclusion
 

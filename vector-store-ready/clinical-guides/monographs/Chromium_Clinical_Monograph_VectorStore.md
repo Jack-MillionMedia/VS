@@ -15,7 +15,19 @@ tags:
 source: "Summarized from the NIH Office of Dietary Supplements Chromium Fact Sheet for Health Professionals and associated literature referenced therein, including randomized clinical trials and observational studies on glucose tolerance, type 2 diabetes, metabolic syndrome and safety."
 ---
 
-## Main Topic
+# Chromium — Clinical Monograph (Vector Store Ready)
+
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Glycemic Control** (Grade C), **Metabolic Syndrome** (Grade C). |
+| **Key Constituents** | **Trivalent Chromium (Cr³⁺)**. |
+| **Mechanism of Action** | **Insulin Potentiation** (Chromodulin complex). |
+| **Evidence Grade** | **Grade C:** Inconsistent/Weak Evidence for Diabetes. |
+| **Safety Profile** | **Safe** at nutritional doses. **Hexavalent Cr** is toxic (industrial). |
+| **Drug Interactions** | **Insulin/Hypoglycemics** (Potentiation), **Antacids** (Reduced Absorption). |
+| **Dosing** | **200-1000 µg/day** (Trials). **DV:** 35 µg. |
 
 Chromium is a trace element that exists mainly in two valence states. The trivalent form (Cr³⁺) occurs naturally in foods and supplements, while the hexavalent form (Cr⁶⁺) is a toxic by‑product of industrial processes and is not used in supplements. Historically, chromium was thought to potentiate insulin’s action and influence carbohydrate, lipid and protein metabolism; more recent evaluations question whether it is truly essential, so current recommendations use Adequate Intakes (AIs) rather than a Recommended Dietary Allowance.
 
@@ -56,7 +68,7 @@ The Food and Nutrition Board set AIs for chromium based on observed intake in he
 
 ---
 
-## Sources of Chromium
+## Sources, Forms & Supply Chain
 
 - **Dietary sources**:
   - Found in a wide variety of foods: meats, whole grains, fruits, vegetables, nuts, brewer’s yeast, spices, beer and wine.  

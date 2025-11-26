@@ -59,6 +59,17 @@ clinical_alert: "IV Silibinin is the antidote of choice for Amanita mushroom poi
 
 # Milk Thistle (Silybum marianum) – Comprehensive Clinical Monograph
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Silybum marianum*. Seed (Fruit) is the medicinal part. |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. **Grade A Safety**. Safe for lactation. Mild GI effects. |
+| **Efficacy** | Clinical strength rated? | **Yes**. Amanita Poisoning (Grade B); NAFLD (Grade B); Diabetes (Grade B). |
+| **History** | **Traditional Use** context included? | **Yes**. "St. Mary's Thistle"; 2,000+ years of hepatic use. |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Cultivated (Sustainable). Extraction solvent issues. |
+
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Milk Thistle (Silybum marianum). All PubMed citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 ## [semantic_index] Semantic Index (Section Map)
@@ -75,6 +86,25 @@ clinical_alert: "IV Silibinin is the antidote of choice for Amanita mushroom poi
 - [clinical_pearls] Clinical Pearls and Practitioner Insights
 - [conclusion] Conclusion
 - [references] Key References
+
+## [supply_chain] Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **Moderate**
+*   **Extraction Solvents:** Cheaper extracts may use **Acetone** or **Methanol** (toxic residues) instead of **Ethanol** or **Water**.
+*   **"Spiking":** Some poor-quality extracts are spiked with synthetic dyes or non-silymarin flavonoids to pass non-specific UV spectrophotometry tests. **HPLC** testing is required to verify true silymarin content.
+*   **Whole Herb vs. Extract:** "Whole herb" powders have very poor bioavailability. Clinical efficacy requires **Standardized Extracts (70-80% Silymarin)**.
+
+### Sustainability & Environmental Impact
+**Status:** **High Sustainability (Cultivated)**
+*   **Cultivation:** *Silybum marianum* is a robust, weed-like plant widely cultivated in Europe, China, and South America. It is not endangered and has low water/fertilizer requirements.
+*   **Invasive Potential:** It is considered an invasive weed in some regions (e.g., North America), so wild-harvesting actually helps ecosystem management.
+
+### Certification & Sourcing Recommendations
+*   **Standardization:** Look for **70-80% Silymarin** (by HPLC).
+*   **Bioavailability:** **Phytosome** (Phosphatidylcholine-bound) forms have significantly higher absorption than standard extracts.
+*   **Solvent Free:** Verify "Ethanol/Water Extraction" to avoid toxic solvent residues.
+
 
 ---
 

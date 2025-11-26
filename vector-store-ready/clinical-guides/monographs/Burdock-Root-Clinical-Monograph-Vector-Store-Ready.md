@@ -76,6 +76,16 @@ study_counts:
 
 ## Document Overview and Purpose
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Arctium lappa* (Burdock); Root (primary), Seed (*Fructus Arctii*). |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. Atropine contamination risk (rare/serious); Diuretic interaction. |
+| **Efficacy** | Clinical strength rated? | **Yes**. Knee Osteoarthritis (Grade C); Skin conditions (Grade D). |
+| **History** | **Traditional Use** context included? | **Yes**. "Blood purifier" (Alterative); "Gobo" (Food). |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Abundant/Weed species; low sustainability risk. |
+
 This monograph provides a rigorous, evidence-based analysis of *Arctium lappa* (burdock root) intended for the guidance of clinicians and medical researchers. All claims regarding clinical efficacy, dosing, and safety are strictly mapped to primary source citations from PubMed, NCBI, and other relevant databases, adhering to a strict evidence hierarchy where Systematic Reviews/Meta-Analyses (SR/MA) > Randomized Controlled Trials (RCTs) > Observational Studies > Preclinical Data > Traditional Use. Every statement of fact is accompanied by a unique PMID or DOI identifier. The evidence grading rubric used is as follows: A (High-quality human evidence), B (Good human evidence), C (Limited/conflicting human evidence), D (Poor/insufficient human evidence, relies on preclinical/observational data). This report synthesizes findings from a wide range of sources, highlighting both the extensive preclinical promise and the critical gaps in human clinical validation.
 
 **Evidence Standards**: All clinical claims are derived from Systematic Reviews/Meta-Analyses (SR/MA) or Randomized Controlled Trials (RCTs) and mapped to their sources.
@@ -377,6 +387,29 @@ The following table summarizes a quick-reference checklist for patients.
 | **Misidentification (Botanical)** | Botanical microscopy, DNA barcoding | Correct identification of *Arctium lappa* | Belladonna (*Atropa belladonna*), Foxglove (*Digitalis purpurea*) | High risk with wild harvesting or poor QC | [[43](https://www.medicalnewstoday.com/articles/320035), [72](https://draxe.com/nutrition/burdock-root/)] |
 
 By following this checklist, patients can significantly reduce their risk of encountering substandard or hazardous products, allowing them to safely explore the potential benefits of *Arctium lappa*.
+
+---
+
+## Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **Moderate (High Consequence)**
+*   **Toxic Look-Alikes:** The most critical risk is the accidental harvesting of *Atropa belladonna* (Deadly Nightshade) roots, which resemble Burdock roots. Contamination leads to anticholinergic poisoning (atropine toxicity).
+*   **Leaf Confusion:** Burdock leaves can be confused with *Digitalis* (Foxglove) leaves prior to flowering, posing a cardiac glycoside toxicity risk.
+*   **Mitigation:** Strict morphological identification and chemical testing (e.g., TLC for alkaloids) are mandatory for wild-harvested material.
+
+### Sustainability & Environmental Impact
+**Status:** **Low Concern / Abundant**
+*   **Cultivation:** *Arctium lappa* is widely cultivated as a vegetable ("Gobo") in Japan and other regions, ensuring a stable and sustainable supply.
+*   **Wild Harvesting:** It is an abundant, often invasive weed in many parts of the world. Wild harvesting does not threaten the species.
+*   **CITES & FairWild:** Not CITES listed. FairWild certification is less common for this abundant weed, but GACP is key.
+*   **Pesticides:** As a root crop, it can accumulate soil contaminants. Organic certification is recommended to avoid pesticide and heavy metal residues.
+
+### Certification & Sourcing Recommendations
+*   **USDA Organic:** Preferred for root products to minimize soil contaminant exposure.
+*   **GACP:** Good Agricultural and Collection Practices are essential to prevent toxic weed contamination during harvest.
+
+---
 
 ## [clinical_decisions] Clinical Decision Rules (IF/THEN/BECAUSE)
 

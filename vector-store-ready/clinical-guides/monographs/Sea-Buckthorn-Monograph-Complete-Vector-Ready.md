@@ -60,6 +60,18 @@ clinical_alert: "CRITICAL: May increase bleeding risk; discontinue 2 weeks befor
 
 # *Hippophae rhamnoides* (Sea Buckthorn) — Complete Evidence-Based Clinical Monograph
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Dry Eye Syndrome** (Grade A), **Vulvovaginal Atrophy** (Grade A), **Atopic Dermatitis** (Grade B). |
+| **Key Constituents** | **Omega-7 (Palmitoleic)**, **Omega-3/6**, **Flavonoids**, **Carotenoids**, **Vitamin C**. |
+| **Mechanism of Action** | **Mucosal Regeneration**, **Anti-inflammatory**, **Antioxidant**, **Lipid Modulation**. |
+| **Evidence Grade** | **Grade A:** High Quality RCTs for Mucosal Health. |
+| **Safety Profile** | **High Safety Margin**. **Bleeding Risk** (Antiplatelet). **Avoid in Pregnancy** (Insufficient Data). |
+| **Drug Interactions** | **Anticoagulants** (Bleeding), **Antihypertensives** (Hypotension), **Antidiabetics** (Hypoglycemia). |
+| **Dosing** | **Dry Eye:** 2g Oil. **Vaginal Atrophy:** 3g Topical Gel. **Dermatitis:** 5g Pulp Oil. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Sea Buckthorn (Hippophae rhamnoides). All PubMed/PMC citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 **MEDICAL DISCLAIMER**: This monograph is intended for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified healthcare provider with any questions you may have regarding a medical condition.
@@ -290,7 +302,7 @@ While direct interactions with cyclosporine are mentioned as possible, the evide
 
 ---
 
-## Quality Control & Adulteration Risks
+## Quality, Supply Chain & Market Ethics
 
 Ensuring the quality and authenticity of sea buckthorn products is a significant challenge for consumers and clinicians alike. The market is fraught with variability in potency and potential adulteration, largely due to the difficulty in distinguishing between seed oil and pulp oil, which have vastly different bioactive compositions and intended uses [[69](https://www.researchgate.net/publication/387090022_Use_of_Sea_Buckthorn_Oil_in_the_Treatment_of_Skin_Disease_Anti-Inflammatory_Benefits_Clinical_Applications_and_Formulary_Challenges)]. A critical issue is that commercial labeling often misrepresents the type of oil contained within a product, making it difficult for practitioners to recommend the correct formulation for a specific indication [[69](https://www.researchgate.net/publication/387090022_Use_of_Sea_Buckthorn_Oil_in_the_Treatment_of_Skin_Disease_Anti-Inflammatory_Benefits_Clinical_Applications_and_Formulary_Challenges)]. Analytical studies using techniques like gas chromatography-mass spectrometry (GC-MS) and nuclear magnetic resonance (NMR) have revealed widespread inconsistencies in commercially available products [[92](https://www.researchgate.net/publication/299394119_Quality_and_authenticity_of_seabuckthorn_oils_using_succesive_UV-Vis_FT-_IR_NMR_spectroscopy_and_HPLC-_GC-chromatography_fingerprints)]. For example, one study found that only one out of six samples labeled as "sea buckthorn oil" was actual fruit oil; the others were seed oil or mixed oils [[69](https://www.researchgate.net/publication/387090022_Use_of_Sea_Buckthorn_Oil_in_the_Treatment_of_Skin_Disease_Anti-Inflammatory_Benefits_Clinical_Applications_and_Formulary_Challenges)]. This underscores the necessity of third-party testing and verification of product labels.
 

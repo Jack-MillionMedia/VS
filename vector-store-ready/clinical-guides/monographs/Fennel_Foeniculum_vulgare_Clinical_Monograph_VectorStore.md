@@ -43,6 +43,18 @@ study_counts:
 clinical_alert: "⚠️ ESTROGENIC ACTIVITY: Contains phytoestrogens. Use caution in hormone-sensitive conditions. Contraindicated in pregnancy due to emmenagogue effects."
 ---
 
+---
+
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Foeniculum vulgare*; Seed (Fruit) / Oil. |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. Estrogenic; Contraindicated in Pregnancy. |
+| **Efficacy** | Clinical strength rated? | **Yes**. Dysmenorrhea (Grade A); Colic (Grade B). |
+| **History** | **Traditional Use** context included? | **Yes**. "Gripe Water"; Galactagogue. |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Sweet vs. Bitter Fennel distinction. |
+
 ## Main Topic
 
 *Foeniculum vulgare* (sweet fennel) is an Apiaceae plant traditionally used for digestive, gynecologic, endocrine and respiratory complaints. Modern evidence supports clinical use in **primary dysmenorrhea**, **menopausal vasomotor and sexual symptoms**, **postmenopausal vaginal atrophy (topical)**, **infantile colic**, **postoperative ileus/flatulence**, and as part of combinations for functional constipation and some IBS presentations. Its actions derive from volatile oils (notably trans-anethole), flavonoids and phenolics that exert phytoestrogenic, antispasmodic, prokinetic, anti-inflammatory, antioxidant and neuromodulatory effects.
@@ -186,6 +198,25 @@ clinical_alert: "⚠️ ESTROGENIC ACTIVITY: Contains phytoestrogens. Use cautio
 - **Sleep & mood**:
   - Combination products (e.g., fennel + Melissa officinalis) show improved sleep and hot flashes in postmenopausal women in early RCTs.  
   - Essential oil aromatherapy reduced anxiety in small human studies; effects likely modest and require further trials.
+
+---
+
+## Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **Moderate**
+*   **Chemotyping:** Crucial distinction between **Sweet Fennel** (*var. dulce*) and **Bitter Fennel** (*var. vulgare*). Bitter fennel has higher fenchone content.
+*   **Synthetic Adulteration:** Essential oils may be adulterated with synthetic trans-anethole or petrochemicals.
+*   **Exhausted Seeds:** "Spent" seeds (after oil extraction) are sometimes sold as whole spice/medicine.
+
+### Sustainability & Environmental Impact
+**Status:** **Sustainable / Cultivated**
+*   **Cultivation:** Widely cultivated globally (Mediterranean, India, Egypt).
+*   **Pesticides:** Seeds concentrate lipophilic pesticides; organic certification is important.
+
+### Certification & Sourcing Recommendations
+*   **Organic:** Strongly recommended for seed/oil preparations to avoid pesticide concentration.
+*   **Species Verification:** Ensure correct variety (*dulce* vs. *vulgare*) based on intended use (Sweet for culinary/mild medicinal; Bitter for stronger digestive/respiratory).
 
 ---
 

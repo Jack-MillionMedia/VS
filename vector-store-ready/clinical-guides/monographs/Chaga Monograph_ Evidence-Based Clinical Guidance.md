@@ -46,6 +46,18 @@ study_counts:
 
 # **Clinical Monograph: *Inonotus obliquus* (Chaga) — Pharmacognosy, Therapeutic Mechanisms, and Clinical Safety Profile**
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Metabolic Syndrome/T2DM** (Grade C), **Oncology Support** (Grade C), **Gastritis/IBD** (Grade C). |
+| **Key Constituents** | **Inotodiol**, **Betulin/Betulinic Acid**, **Beta-Glucans**, **Melanin**. |
+| **Mechanism of Action** | **PPAR-gamma Agonism**, **TLR4/NF-kB Modulation**, **Alpha-Glucosidase Inhibition**, **Mitochondrial Apoptosis**. |
+| **Evidence Grade** | **Grade C:** Preclinical/Traditional. No robust human RCTs. |
+| **Safety Profile** | **High Oxalate Content** (Nephropathy Risk). **Bleeding Risk**. **Hypoglycemia**. |
+| **Drug Interactions** | **Warfarin** (Contraindicated). **Anti-diabetics**. **CYP2C9/3A4 Substrates**. |
+| **Dosing** | **1-3 g/day** (Extract). **Befungin Protocol**. |
+
 ## **1\. Executive Summary**
 
 *Inonotus obliquus* (Fr.) Pilát, widely designated as Chaga, occupies a unique niche in the integrative pharmacopeia. Distinct from typical basidiomycetes that are harvested as ephemeral fruiting bodies, the medicinally utilized portion of *I. obliquus* is a perennial, sterile conk (sclerotium) — a heterogeneous amalgam of fungal mycelium and lignified host tissue, typically *Betula* species (birch). This structural peculiarity dictates its pharmacological profile, which is characterized by a complex synergy between fungal-synthesized polysaccharides and host-derived triterpenoids such as betulin and betulinic acid.
@@ -74,7 +86,7 @@ Comparative phytochemical analyses of sterile conks harvested from *Betula pendu
 
 ---
 
-## **3\. Phytochemical Characterization and Quality Assurance**
+## **3\. Phytochemistry, Quality, Supply Chain & Market Ethics**
 
 The most pressing issue in the clinical utilization of *I. obliquus* is the "quality gap" between wild-harvested sclerotia (Canker) and laboratory-cultivated biomass (Mycelium on Grain, or MOG). Understanding this distinction is critical for avoiding therapeutic failure.
 

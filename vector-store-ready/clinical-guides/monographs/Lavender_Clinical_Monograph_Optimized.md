@@ -53,11 +53,22 @@ clinical_alert: "⚠️ ORAL USE: Silexan (80mg) is the only evidence-based oral
 
 # Lavender (Lavandula angustifolia) Clinical Monograph
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Lavandula angustifolia* (Flower). Distinguish from Lavandin. |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. Safe (Grade A). Oral pregnancy warning. |
+| **Efficacy** | Clinical strength rated? | **Yes**. Anxiety (Grade A); Insomnia (Grade B). |
+| **History** | **Traditional Use** context included? | **Yes**. Western Herbalism, TCM, Ayurveda. |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. **High Adulteration Risk** (Lavandin/Synthetics). |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on the therapeutic use of lavender (*Lavandula angustifolia* Mill.) for anxiety, insomnia, pain management, and other conditions. All PubMed citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 ## [semantic_index] Semantic Index (Section Map)
 
 - [executive_summary] Executive Summary (TL;DR for Clinicians)
+- [supply_chain] Supply Chain & Market Ethics
 - [botanical] Botanical Identity and Taxonomy
 - [traditional] Traditional Medicine Systems
 - [phytochemistry] Phytochemistry and Active Constituents
@@ -121,6 +132,31 @@ clinical_alert: "⚠️ ORAL USE: Silexan (80mg) is the only evidence-based oral
 **Quality Matters:** Ensure true *Lavandula angustifolia* - adulteration with lavandin (*L. × intermedia*) is common and reduces efficacy. Check for camphor <1.5%, linalyl acetate >30%.
 
 **Combination Strategies:** Synergizes well with sleep hygiene, cognitive behavioral therapy, and other calming herbs. Can facilitate dose reduction of benzodiazepines or sleep medications.
+
+---
+
+## [supply_chain] Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **High**
+*   **Lavandin Admixture:** The most common adulterant is *Lavandula × intermedia* (Lavandin), which contains higher camphor (6-8%) and is stimulant rather than sedative.
+*   **Synthetic Adulteration:** Addition of synthetic linalool and linalyl acetate is common. Detected via chiral GC (racemic mixtures) or isotope analysis.
+*   **"Lavender 40/42":** A standardized industrial blend often containing synthetics to achieve a consistent scent profile; not suitable for clinical use.
+
+### Sustainability & Environmental Impact
+**Status:** **Widely Cultivated**
+*   **Sourcing:** Major production in Bulgaria, France (Provence), and China.
+*   **Conservation:** *L. angustifolia* is not endangered. However, climate change threatens traditional growing regions (e.g., lavender decline in Provence due to bacteria/drought).
+
+### Certification & Sourcing Recommendations
+*   **ISO 3515:** The international standard for *L. angustifolia* oil profiles.
+*   **Pharmacopoeial Grade:** Ph. Eur. or USP standards ensure minimum linalool/linalyl acetate levels (>70% total).
+*   **Certified Organic:** Recommended to avoid pesticide residues, especially for concentrated essential oils.
+
+### Recommended Products
+*   **Oral:** Silexan (standardized 80 mg) is the gold standard for anxiety.
+*   **Aromatherapy:** Authentic *L. angustifolia* essential oil (low camphor <1.5%).
+*   **Topical:** Diluted essential oil in carrier.
 
 ---
 

@@ -49,6 +49,20 @@ study_counts:
 clinical_alert: "Excessive iodine intake can precipitate autoimmune thyroiditis or hyperthyroidism, especially in selenium-deficient individuals."
 ---
 
+# Iodine Clinical Monograph
+
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Hypothyroidism** (Deficiency), **Goiter** (Grade A), **Pregnancy** (Grade A). |
+| **Key Constituents** | **Iodide (I-)**, **Iodate**. |
+| **Mechanism of Action** | **Thyroid Hormone Synthesis** (T3/T4). |
+| **Evidence Grade** | **Grade A:** Essential Nutrient. |
+| **Safety Profile** | **Safe** at RDA. **Excess** causes thyroid dysfunction. |
+| **Drug Interactions** | **Antithyroid Drugs**, **Amiodarone**, **Lithium**. |
+| **Dosing** | **150 mcg/day** (Adults). **220-290 mcg** (Pregnancy/Lactation). |
+
 ## Main Topic
 
 Iodine is an essential trace element required for the synthesis of thyroid hormones. It plays a central role in regulating metabolic activity and supporting neurodevelopment during gestation and early life. This monograph summarizes iodine’s physiological roles, recommended intakes, dietary sources, population status, deficiency considerations and safety profile based on evidence from health-professional resources and the research they reference.
@@ -106,7 +120,7 @@ Iodine is an essential trace element required for the synthesis of thyroid hormo
 
 ---
 
-## Dietary Sources
+## Sources, Forms & Supply Chain
 
 ### Foods
 

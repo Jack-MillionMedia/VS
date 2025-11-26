@@ -57,6 +57,18 @@ clinical_alert: "Contraindicated in pregnancy (abortifacient risk). Distinguish 
 
 # Oregano (*Origanum vulgare* and *Lippia graveolens*) — Evidence-Based Clinical Monograph
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | Chronic Rhinosinusitis, Upper Respiratory Infections (URTI), Functional Dyspepsia, Wound Healing, Antimicrobial (GI). |
+| **Key Constituents** | **Carvacrol**, **Thymol** (Phenolic monoterpenes), Rosmarinic acid. *Note: Chemotypes vary wildly.* |
+| **Mechanism of Action** | Membrane disruption (antimicrobial), NF-κB inhibition (anti-inflammatory), COX-2 inhibition, Antioxidant. |
+| **Evidence Grade** | **Respiratory/Sinus:** Grade B. **Dyspepsia:** Grade B. **Parasites:** Grade D (Insufficient). |
+| **Safety Profile** | **Pregnancy:** CONTRAINDICATED (Abortifacient risk). **Topical:** High irritation risk (dilute!). **Oral:** GI distress common. |
+| **Drug Interactions** | **Anticoagulants:** Increased bleeding risk. **Antidiabetics:** Potential additive hypoglycemia. |
+| **Dosing** | **Oil (Oral):** 3-5 drops diluted, or enteric caps (emulsified). **Topical:** Dilute to <1-3% in carrier oil. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Oregano (Origanum vulgare and Lippia graveolens). All PubMed/PMC citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 **MEDICAL DISCLAIMER**: This monograph is intended for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified healthcare provider with any questions you may have regarding a medical condition.
@@ -65,6 +77,7 @@ clinical_alert: "Contraindicated in pregnancy (abortifacient risk). Distinguish 
 
 - [overview] Document Overview and Purpose
 - [clinician_tldr] Quick Reference: Clinician TL;DR
+- [supply_chain] Supply Chain & Market Ethics
 - [pharmacology_summary] Core Pharmacological Summary
 - [evidence_map] Evidence Map Table
 - [pharmacognosy] Pharmacognosy & Phytochemistry
@@ -81,6 +94,25 @@ clinical_alert: "Contraindicated in pregnancy (abortifacient risk). Distinguish 
 - [cross_references] Cross-References to Related Documents
 - [source_audit] Source Audit Log
 - [references] Bibliography & References
+
+---
+
+## Supply Chain & Market Ethics
+
+### 1. Sourcing & Sustainability
+*   **Primary Sources:** Turkey (major global supplier), Greece, Mexico (*Lippia graveolens*).
+*   **Wildcrafting:** A significant portion of commercial oregano is wild-harvested in the Mediterranean region.
+*   **Sustainability Concerns:** Over-harvesting of wild populations in Turkey has led to regulations. Sustainable cultivation is preferred to protect wild biodiversity.
+
+### 2. Adulteration & Quality
+*   **Adulteration Rate:** **VERY HIGH**. One of the most adulterated essential oils globally.
+*   **Common Adulterants:** Sumac leaves, Myrtle leaves, Olive leaves, *Cistus* species.
+*   **Synthetic Spiking:** Addition of synthetic carvacrol to boost potency claims is common. Synthetic carvacrol lacks the full spectrum of minor constituents and may have different safety profiles.
+*   **Species Confusion:** *Origanum vulgare* (Mediterranean) vs. *Lippia graveolens* (Mexican) vs. *Origanum majorana* (Marjoram). They are NOT interchangeable clinically.
+
+### 3. Ethical Considerations
+*   **Labor:** Harvesting in mountainous Mediterranean regions is physically demanding. Ensuring fair wages for wild-harvesters is a key ethical metric.
+*   **Traceability:** Due to the high prevalence of adulteration, supply chain traceability from farm/mountain to bottle is the single most important quality factor.
 
 ---
 

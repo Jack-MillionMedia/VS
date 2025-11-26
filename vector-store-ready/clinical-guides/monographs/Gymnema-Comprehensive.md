@@ -49,6 +49,16 @@ clinical_alert: "Potent hypoglycemic effect. Monitor blood glucose closely in pa
 
 # Gymnema sylvestre - Clinical Monograph
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Gymnema sylvestre* (Leaf). "Sugar Destroyer". |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. Hypoglycemia risk; Rare hepatotoxicity reported. |
+| **Efficacy** | Clinical strength rated? | **Yes**. Diabetes (Grade C); Weight/Cravings (Grade C). |
+| **History** | **Traditional Use** context included? | **Yes**. Ayurveda ("Madhunashini"); Traditional diabetes use. |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Wild harvesting pressure; Heavy metal risks. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Gymnema sylvestre (Gurmar, "Sugar Destroyer"). All PubMed citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 ## [semantic_index] Semantic Index (Section Map)
@@ -60,6 +70,7 @@ clinical_alert: "Potent hypoglycemic effect. Monitor blood glucose closely in pa
 - [blood_sugar] Blood Sugar Regulation
 - [weight] Weight Management
 - [safety] Safety & Contraindications
+- [supply_chain] Supply Chain & Market Ethics
 - [dosing] Dosing & Administration
 - [references] References & Bibliography
 
@@ -278,24 +289,28 @@ Gymnema's unique mechanism: blocks sweetness receptors on tongue (reduces sugar 
 
 ---
 
-## 7.0 Quality Control & Product Selection
+## 7.0 Supply Chain & Market Ethics
 
-### Standardization Requirements
+### Adulteration & Identity Risks
+**Risk Level:** **Moderate**
+*   **Heavy Metals:** **High Risk**. *Gymnema* can accumulate metals from soil. Testing for Lead and Arsenic is critical.
+*   **Identity:** Generally authentic, but potency varies widely.
+*   **Microbial:** Poor drying practices can lead to mold/bacterial contamination.
 
-**Gymnemic Acid Content:**
-- Standardized extracts should contain ≥25% gymnemic acids
-- Higher standardization (75%) used in some clinical studies
-- Verify Certificate of Analysis (CoA)
+### Sustainability & Environmental Impact
+**Status:** **Vulnerable / Wild Harvested**
+*   **Conservation:** High demand has led to over-harvesting in wild populations in India.
+*   **Cultivation:** Sustainable cultivation initiatives are emerging to reduce pressure on wild stocks.
+*   **Sourcing:** Prefer cultivated sources with GACP (Good Agricultural and Collection Practices).
 
-**Third-Party Testing:**
-- Look for USP Verified, NSF International, or ConsumerLab certification
-- Heavy metal testing (Gymnema grown in contaminated soils may accumulate metals)
-- Microbial contamination testing
+### Certification & Sourcing Recommendations
+*   **Standardization:** **Essential**. Look for **≥25% Gymnemic Acids** (up to 75% in some clinical extracts).
+*   **Testing:** Mandatory **Heavy Metal** and **Microbial** testing.
+*   **Certifications:** Organic certification ensures no pesticide residues and supports soil health.
 
-**Formulation Considerations:**
-- Extended-release formulations may provide better glycemic control
-- Combination products (with chromium, HCA) studied for weight management
-- Timing: Before meals for optimal glucose/craving effects
+### Recommended Products
+*   **Extracts:** Standardized leaf extracts (25-75% gymnemic acids).
+*   **Formulations:** Extended-release or combination formulas (w/ Chromium) often used clinically.
 
 ---
 

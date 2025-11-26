@@ -16,6 +16,20 @@ tags:
 source: "Derived from online evidence summaries and reference tables from the NIH Office of Dietary Supplements and Food and Nutrition Board Dietary Reference Intakes, observational and interventional studies indexed in PubMed on cardiovascular disease, type 2 diabetes, bone health and migraine, and guidance from professional bodies (e.g., American Academy of Neurology/American Headache Society, American Diabetes Association, and FDA safety communications on proton pump inhibitors)."
 ---
 
+# Magnesium — Clinical Monograph (Vector Store Ready)
+
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Deficiency** (Grade A), **Migraine** (Grade B), **Constipation** (Grade A). |
+| **Key Constituents** | **Magnesium** (Mg2+). |
+| **Mechanism of Action** | **Enzyme Cofactor** (>300), **NMDA Antagonist**, **Muscle Relaxation**. |
+| **Evidence Grade** | **Grade A:** Essential Nutrient. |
+| **Safety Profile** | **Safe** from food. **Supplements** >350mg can cause GI upset. **Renal Caution**. |
+| **Drug Interactions** | **Bisphosphonates**, **Antibiotics** (Absorption), **Diuretics**. |
+| **Dosing** | **310-420 mg/day** (RDA). **Migraine:** 300-600 mg. |
+
 ## Main Topic
 
 Magnesium is an abundant mineral that serves as a cofactor for more than 300 enzymatic reactions, supporting protein synthesis, muscle and nerve function, blood glucose control and blood pressure regulation. Roughly 25 g of magnesium are present in an adult body, with 50–60% stored in bone and the remainder in soft tissues and fluids. Serum magnesium concentrations normally range from 0.75 to 0.95 mmol/L; levels below 0.75 mmol/L indicate hypomagnesaemia.
@@ -87,7 +101,7 @@ Food sources do not contribute to ULs because the kidneys can excrete excess mag
 
 ---
 
-## Sources of Magnesium
+## Sources, Forms & Supply Chain
 
 ### Dietary Sources
 

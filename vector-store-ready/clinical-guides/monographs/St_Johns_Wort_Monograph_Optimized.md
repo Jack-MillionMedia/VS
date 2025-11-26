@@ -58,6 +58,18 @@ clinical_alert: "CRITICAL: Potent CYP3A4 inducer. Contraindicated with immunosup
 
 # St. John's Wort (Hypericum perforatum) Comprehensive Monograph
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Mild-Moderate Depression** (Grade A), **Somatic Symptom Disorder** (Grade A), **PMS** (Grade B), **Menopausal Symptoms** (Grade B). |
+| **Key Constituents** | **Hyperforin** (Reuptake Inhibitor), **Hypericin** (MAO Inhibitor/Marker), **Flavonoids** (Quercetin). |
+| **Mechanism of Action** | **Broad-Spectrum Reuptake Inhibition** (Serotonin, NE, Dopamine), **GABA Receptor Modulation**. |
+| **Evidence Grade** | **Grade A:** Depression, Somatic Symptoms. **Grade B:** PMS, Menopause, Anxiety. |
+| **Safety Profile** | **Generally Safe** as monotherapy. **Photosensitivity** risk at high doses. |
+| **Drug Interactions** | **CRITICAL:** Potent **CYP3A4 & P-gp Inducer**. Contraindicated with Warfarin, Cyclosporine, HIV drugs, Oral Contraceptives, SSRIs. |
+| **Dosing** | **900 mg/day** (divided TID). Standardized to **0.3% Hypericin** or **2-5% Hyperforin**. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on St. John's Wort (Hypericum perforatum) with critical emphasis on drug interaction risks. All PubMed citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 **Context:** St. John's Wort is a perennial flowering plant with a long history of medicinal use, particularly for mood disorders. This monograph provides comprehensive clinical information based on current scientific evidence, including phytochemistry, mechanisms of action, clinical applications, safety profile, and drug interactions. The herb is primarily indicated for mild to moderate depression with Grade A evidence supporting its efficacy.
@@ -86,7 +98,7 @@ clinical_alert: "CRITICAL: Potent CYP3A4 inducer. Contraindicated with immunosup
 - [dosing] Dosage and Administration
 - [clinical_guidance] Clinical Guidance and Decision-Making
 - [protocols] Clinical Protocols
-- [quality] Quality Specifications
+- [quality] Quality, Supply Chain & Market Ethics
 - [disclaimer] Disclaimer
 - [bibliography] Bibliography
 
@@ -812,7 +824,7 @@ This induction reduces plasma concentrations and efficacy of substrate medicatio
 | **Menopausal Symptoms** | Standardized Extract | 900 mg | TID | Standardized | Grade B. Improves QoL and sleep. Combine with Black Cohosh. |
 | **Generalized Anxiety** | Standardized Extract | 900 mg | TID | Standardized | Grade B. 4-6 weeks for anxiolytic effect. |
 
-## Quality Specifications
+## Quality, Supply Chain & Market Ethics
 
 Healthcare providers and patients should select St. John's Wort products meeting rigorous quality standards to ensure safety, efficacy, and consistency.
 

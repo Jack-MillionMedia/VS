@@ -49,6 +49,16 @@ clinical_alert: "⚠️ SPECIES SELECTION IS CRITICAL: C. cassia contains hepato
 
 # Cinnamomum Species (Cinnamon): Comprehensive Clinical Monograph
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Cinnamomum verum* (Ceylon) vs. *C. cassia*; Bark. |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. **CRITICAL**: Cassia = Hepatotoxic (Coumarin). |
+| **Efficacy** | Clinical strength rated? | **Yes**. T2DM Glycemic Control (Grade B). |
+| **History** | **Traditional Use** context included? | **Yes**. Ancient spice trade; Traditional Chinese Medicine. |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Cultivated (Sri Lanka/China); Fair Trade relevant. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Cinnamon (Cinnamomum species) with critical emphasis on species differentiation for safety. All PubMed citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 ## [semantic_index] Semantic Index (Section Map)
@@ -1317,7 +1327,28 @@ Most cinnamon products sold in North American grocery stores are **unlabeled cas
 
 ---
 
-## 12. Comparative Analysis: Cinnamon vs. Standard Therapies
+## 12. Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **High**
+*   **Species Substitution:** Lower-cost *C. cassia* is frequently sold simply as "cinnamon," displacing *C. verum*.
+*   **"Spent" Material:** Distilled bark (after essential oil extraction) may be mixed with fresh bark powder, reducing potency.
+*   **Coumarin Variability:** *C. cassia* samples show massive variability in coumarin content (700–12,000 mg/kg), making safety unpredictable.
+
+### Sustainability & Environmental Impact
+**Status:** **Low Concern / Cultivated**
+*   **Cultivation:** Both *C. verum* (Sri Lanka, Madagascar) and *C. cassia* (China, Vietnam, Indonesia) are widely cultivated tree crops.
+*   **Regenerative Potential:** Coppicing methods (cutting back to stump to stimulate shoot growth) allow sustainable harvesting without killing the tree.
+*   **CITES Status:** Not listed.
+
+### Certification & Sourcing Recommendations
+*   **Certified Organic:** Recommended to ensure absence of pesticides and post-harvest fumigants.
+*   **Fair Trade:** Critical for Sri Lankan *C. verum* to ensure fair wages for peelers (a skilled trade).
+*   **Origin Verification:** "Ceylon" cinnamon must originate from Sri Lanka to be authentic.
+
+---
+
+## 13. Comparative Analysis: Cinnamon vs. Standard Therapies
 
 ### 12.1 Glycemic Control: Cinnamon vs. Antidiabetic Medications
 
@@ -1377,7 +1408,7 @@ Most cinnamon products sold in North American grocery stores are **unlabeled cas
 
 ---
 
-## 13. Case Studies & Clinical Pearls
+## 14. Case Studies & Clinical Pearls
 
 ### 13.1 Case Study 1: Successful Adjunctive Use in Prediabetes
 
@@ -1544,7 +1575,7 @@ Most cinnamon products sold in North American grocery stores are **unlabeled cas
 
 ---
 
-## 14. Research Frontiers & Ongoing Clinical Trials
+## 15. Research Frontiers & Ongoing Clinical Trials
 
 ### 14.1 Critical Evidence Gaps
 
@@ -1651,7 +1682,7 @@ Most cinnamon products sold in North American grocery stores are **unlabeled cas
 
 ---
 
-## 15. Summary & Clinical Bottom Line
+## 16. Summary & Clinical Bottom Line
 
 ### 15.1 Evidence Summary by Indication
 
@@ -1712,7 +1743,7 @@ Most cinnamon products sold in North American grocery stores are **unlabeled cas
 
 ---
 
-## 16. Patient Handout: Key Counseling Points
+## 17. Patient Handout: Key Counseling Points
 
 **What is cinnamon?**
 Cinnamon is a spice derived from the bark of trees in the _Cinnamomum_ genus. It's traditionally used for flavor and has been studied for potential health benefits in blood sugar control.
@@ -1778,7 +1809,7 @@ Cinnamon can be a helpful **addition** to a healthy lifestyle and medical treatm
 
 ---
 
-## 17. References & Source Audit
+## 18. References & Source Audit
 
 _This monograph synthesized evidence from 55+ unique sources, including:_
 

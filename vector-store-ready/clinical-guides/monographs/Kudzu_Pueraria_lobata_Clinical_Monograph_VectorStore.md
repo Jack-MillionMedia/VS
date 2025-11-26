@@ -49,6 +49,18 @@ study_counts:
 clinical_alert: "Avoid in hormone-sensitive cancers due to phytoestrogenic activity. Monitor liver function with long-term use."
 ---
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Alcohol Use Disorder** (Grade B), **Menopause** (Grade B), **Bone Health** (Grade C). |
+| **Key Constituents** | **Puerarin** (Isoflavone), **Daidzin**, **Daidzein**. |
+| **Mechanism of Action** | **ALDH2 Inhibition** (Daidzin), **Estrogen Receptor Beta Agonist**, **Vasodilation**. |
+| **Evidence Grade** | **Grade B:** Alcohol Reduction, Menopause. |
+| **Safety Profile** | **Generally Safe**. **Phytoestrogenic** (Avoid in ER+ Cancer). |
+| **Drug Interactions** | **Methotrexate** (Caution). **Estrogen Therapies**. |
+| **Dosing** | **1.5-3 g** Root Extract. **Standardized to Puerarin**. |
+
 ## Main Topic
 
 *Pueraria lobata* (kudzu) is a climbing legume whose root is rich in isoflavones, primarily **puerarin**, along with daidzin, daidzein, genistein and glycitein. Traditional uses span cardiovascular, neurologic, metabolic and GI indications. Modern human evidence is strongest for **alcohol use disorder (AUD)** and **menopausal symptoms/bone turnover**, with additional but less robust support for cardiovascular/cerebrovascular and metabolic uses (often via IV puerarin in TCM settings). Most anticancer and neuroprotective claims remain preclinical.
@@ -171,6 +183,13 @@ clinical_alert: "Avoid in hormone-sensitive cancers due to phytoestrogenic activ
   - In multi-compound regimens (TCM formulas), interaction attribution becomes complex; careful medication reconciliation and monitoring are advised.
 
 ---
+
+## Quality, Supply Chain & Market Ethics
+
+**Market Status:** Widely available as root powder and standardized extracts.
+**Supply Chain:** Primarily sourced from China and Japan. Invasive species in US (potential source).
+**Quality Concerns:** Standardization to **Puerarin** is critical for efficacy.
+**Ethics:** Harvesting invasive Kudzu in the US is ecologically beneficial.
 
 ## Therapeutic Protocols
 

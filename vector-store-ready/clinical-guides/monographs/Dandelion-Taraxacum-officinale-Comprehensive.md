@@ -47,6 +47,16 @@ clinical_alert: "⚠️ RENAL CONTRAINDICATION: Absolute contraindication in ren
 
 # Taraxacum officinale (Dandelion): Comprehensive Clinical Monograph
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Taraxacum officinale*; Root (Hepatic) vs. Leaf (Diuretic). |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. **CRITICAL**: Renal Failure (Hyperoxaluria). |
+| **Efficacy** | Clinical strength rated? | **Yes**. Diuretic (Grade C); Diabetes (Grade D). |
+| **History** | **Traditional Use** context included? | **Yes**. "Pissenlit" (Diuretic); TCM "Clear Heat". |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Wild/Weed status; Pesticide contamination risk. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Dandelion (Taraxacum officinale) with critical emphasis on limited human evidence despite traditional use. All PubMed citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 **Evidence-Based Analysis with Critical Assessment of Traditional Claims, Preclinical Promise, and Minimal Human Validation**
@@ -981,7 +991,27 @@ Prebiotic               Antioxidant
 
 ---
 
-## 9. Comparative Effectiveness vs. Standard of Care
+## 9. Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **Moderate**
+*   **Species Confusion:** Often confused with Chicory (*Cichorium intybus*) root, which is a common adulterant or substitute in "roasted dandelion root" coffee alternatives.
+*   **Part Substitution:** Mixing leaves with roots or vice versa. Critical because leaves are diuretic (high K+) and roots are hepatic (bitter).
+*   **Contamination:** As a common weed, wild-harvested dandelion is at **high risk of herbicide/pesticide contamination** (e.g., glyphosate) from lawns and roadsides.
+
+### Sustainability & Environmental Impact
+**Status:** **Very Low Concern / Weed**
+*   **Wild Harvest:** Abundant and invasive in many regions. Wild harvesting is sustainable if done in clean areas.
+*   **Cultivation:** Easily cultivated.
+*   **Bee Health:** Important early spring food source for pollinators.
+
+### Certification & Sourcing Recommendations
+*   **Certified Organic:** **MANDATORY** to avoid herbicide residues found in lawn/roadside specimens.
+*   **Part Verification:** Ensure product specifies "Root" or "Leaf" clearly based on intended therapeutic use.
+
+---
+
+## 10. Comparative Effectiveness vs. Standard of Care
 
 ### 9.1 Dandelion vs. Prescription Diuretics (Edema, Hypertension, Heart Failure)
 
@@ -1050,7 +1080,7 @@ Prebiotic               Antioxidant
 
 ---
 
-## 10. Research Gaps & Future Directions
+## 11. Research Gaps & Future Directions
 
 ### 10.1 The Translation Crisis: Why Has Dandelion Failed to Progress?
 
@@ -1181,7 +1211,7 @@ Prebiotic               Antioxidant
 
 ---
 
-## 11. Clinical Decision Support: When (If Ever) to Consider Dandelion
+## 12. Clinical Decision Support: When (If Ever) to Consider Dandelion
 
 ### 11.1 Clinical Scenarios Where Dandelion Might Be Considered (with Extreme Caution)
 
@@ -1320,7 +1350,7 @@ Prebiotic               Antioxidant
 
 ---
 
-## 12. Red Flags & Emergency Triage
+## 13. Red Flags & Emergency Triage
 
 ### 12.1 Clinical Red Flags Requiring Immediate Dandelion Cessation
 
@@ -1355,7 +1385,7 @@ Prebiotic               Antioxidant
 
 ---
 
-## 13. Summary & Evidence-Based Recommendations
+## 14. Summary & Evidence-Based Recommendations
 
 ### 13.1 Evidence Grading by Indication (Final Assessment)
 
@@ -1404,7 +1434,7 @@ Prebiotic               Antioxidant
 
 ---
 
-## 14. Key Clinical Pearls
+## 15. Key Clinical Pearls
 
 1. **"Traditional Use" ≠ Clinical Efficacy**: Dandelion's 1,000+ year history across multiple cultures does not constitute proof of efficacy. Zero controlled human trials exist for hepatoprotection despite it being the primary traditional indication.
 
@@ -1428,7 +1458,7 @@ Prebiotic               Antioxidant
 
 ---
 
-## 15. Patient Education Handout (Clinician-to-Patient Summary)
+## 16. Patient Education Handout (Clinician-to-Patient Summary)
 
 ### What is Dandelion?
 

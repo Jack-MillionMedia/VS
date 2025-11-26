@@ -71,6 +71,16 @@ study_counts:
 
 ## Quick Reference: Clinician TL;DR
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Albizia julibrissin*; Bark (He Huan Pi) & Flower (He Huan Hua). |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. Caution in pregnancy; potential sedation potentiation. |
+| **Efficacy** | Clinical strength rated? | **Yes**. Anxiety, insomnia, mood support (Traditional & Preliminary). |
+| **History** | **Traditional Use** context included? | **Yes**. TCM "Shen" stabilizer; "Tree of Happiness". |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Invasive species in US (harvest encouraged); widely available. |
+
 ### Evidence Grade Summary
 
 **Respiratory Conditions (Asthma): Evidence Grade C**
@@ -717,6 +727,18 @@ Albizia demonstrates multi-target activity:
 - Third-party testing
 - Botanical authentication
 
+### 10.5 Supply Chain & Market Ethics
+
+**Adulteration Risk:**
+- **High Risk:** Confusion with *Albizia lebbeck* (Siris Tree) is common in the market. While related, they have different phytochemical profiles and traditional uses.
+- **Mimosa Adulteration:** *Mimosa pudica* is another common adulterant due to similar leaf morphology ("Sensitive Plant").
+
+**Sustainability & Sourcing:**
+- **CITES Status:** Not listed. *Albizia julibrissin* is not an endangered species.
+- **Invasive Status:** Considered an invasive species in many parts of the United States (Southeast). Wild-harvesting in these areas is ecologically beneficial.
+- **Sourcing:** Widely cultivated in Asia as an ornamental and medicinal tree.
+- **Certifications:** FairWild certification is rare for this species. Organic certification is available for cultivated sources.
+
 ---
 
 ## 11.0 Clinical Pearls & Practical Tips
@@ -799,6 +821,19 @@ The clinical study used a standardized gel preparation. For burn wounds, use sta
 - Neuroprotection: Preclinical evidence suggests potential (human studies needed)
 
 ---
+
+## 12.5 Supply Chain and Market Ethics
+
+### Sustainability Status
+*Albizia julibrissin* is widely distributed and considered an invasive species in many parts of the United States and other regions outside its native range. Consequently, wild-harvesting is often encouraged as a method of ecological control. It is not currently considered threatened or endangered.
+
+### Adulteration and Quality
+*   **Adulteration Risk:** Low. The distinct appearance of the flowers and bark makes substitution less likely, though quality can vary based on harvest time.
+*   **Part Substitution:** Ensure distinction between Bark (He Huan Pi - grounding, anchoring) and Flower (He Huan Hua - lifting, relieving constraint) as they have slightly different therapeutic focuses in TCM.
+
+### Purchasing Advice
+*   **Sourcing:** Domestic wild-crafted sources in the US are ethical and sustainable.
+*   **Form:** Available as cut/sifted herb, powder, or liquid extracts.
 
 ## 13.0 References & Bibliography
 

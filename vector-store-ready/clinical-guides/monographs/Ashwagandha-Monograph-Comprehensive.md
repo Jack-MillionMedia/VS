@@ -75,12 +75,15 @@ version: "2.1 - HDKO Standardized"
 - ⚠️ **CRITICAL SAFETY:** Hepatotoxicity (can be FATAL in liver disease), thyrotoxicosis risk
 - ⚠️ **Absolute Contraindications:** Pregnancy, pre-existing liver disease, hyperthyroidism
 
-**What Makes This Herb Unique:**
-- Most researched adaptogen with strongest HPA axis effects
-- Significant cardiorespiratory endurance enhancement (VO2 max +4.09 ml/min/kg)
-- Dual immune effects: enhancement without autoimmune exacerbation risk in healthy individuals
-- Rare but serious hepatotoxicity: 3 deaths in patients with pre-existing liver disease
-- Thyroid-stimulating properties: beneficial for hypothyroidism, dangerous for hyperthyroidism
+### **360-Degree Summary Checklist**
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | Is it the right part of the right species? | **Yes.** *Withania somnifera* Root (DNA authenticated). Distinction from leaf is critical. |
+| **Safety** | Interaction risk? | **High.** Thyrotoxicosis risk; Hepatotoxicity (rare but serious); Potentiates sedatives. |
+| **Efficacy** | Human trial data? | **Grade A.** Multiple RCTs for Stress, Anxiety, and Athletic Performance. |
+| **History** | Traditional vs Modern? | **Aligned.** Traditional "Rasayana" use matches modern adaptogenic application. |
+| **Ethics** | Sustainable? | **Yes.** Widely cultivated. Low CITES risk. Adulteration with leaf material is a market concern. |
 
 ---
 
@@ -3276,6 +3279,20 @@ LONG-TERM MANAGEMENT
 **ConsumerLab:**
 - Independent testing service
 - Publishes test results online
+
+- Publishes test results online
+
+### 11.5 Supply Chain & Market Ethics
+
+**Sustainability Status:**
+- **CITES:** Not listed. *Withania somnifera* is not currently considered endangered.
+- **Sourcing:** Predominantly cultivated in India (states of Madhya Pradesh, Rajasthan, Andhra Pradesh).
+- **Wild-Harvesting:** Minimal commercial reliance on wild-crafting reduces biodiversity impact.
+- **Certifications:** Look for **USDA Organic** for cultivated material. **FairWild** certification is relevant only for wild-harvested sources (rare).
+
+**Market Reality & Ethics:**
+- **Economic Adulteration:** The primary ethical issue is the substitution of **root** material with cheaper **leaf** material. Leaves are high in Withaferin A (cytotoxic) and lack the traditional safety record of the root.
+- **Labor:** Sourcing from established farms with Fair Trade certifications ensures ethical labor practices in the supply chain.
 
 ---
 

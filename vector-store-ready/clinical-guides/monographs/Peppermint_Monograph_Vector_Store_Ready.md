@@ -52,6 +52,18 @@ clinical_alert: "Enteric-coated formulations are ESSENTIAL for IBS to prevent he
 
 # Clinical Monograph: Mentha × piperita (Peppermint Oil)
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | Irritable Bowel Syndrome (IBS), Functional Dyspepsia, Tension Headache (Topical), Nausea. |
+| **Key Constituents** | **L-Menthol** (30-55%), Menthone (14-32%), Menthyl acetate. |
+| **Mechanism of Action** | **L-type Calcium Channel Blockade** (Spasmolytic), TRPM8 Agonism (Analgesic/Cooling), κ-Opioid Receptor Agonism. |
+| **Evidence Grade** | **IBS:** Grade A (Strong). **Dyspepsia:** Grade B. **Headache:** Grade B. |
+| **Safety Profile** | Generally safe. **Infants/Children <3:** CONTRAINDICATED (Laryngospasm risk). **GERD:** Caution (relax LES). |
+| **Drug Interactions** | **CYP3A4 Inhibition:** Mild. **Cyclosporine:** Potential interaction. **Iron:** Reduced absorption. |
+| **Dosing** | **IBS:** 180-225 mg **Enteric-Coated** oil TID, 30-60 min before meals. **Dyspepsia:** 90 mg oil + 50 mg caraway oil. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Peppermint Oil (Mentha × piperita). All PubMed citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 **Document Context:** This clinical monograph provides comprehensive, evidence-based information on peppermint oil (Mentha × piperita) for healthcare practitioners. It covers botanical identification, phytochemistry, pharmacological mechanisms, clinical applications, safety profile, and quality control standards. The primary focus is gastrointestinal applications, particularly irritable bowel syndrome and functional dyspepsia.
@@ -61,6 +73,7 @@ clinical_alert: "Enteric-coated formulations are ESSENTIAL for IBS to prevent he
 ## [semantic_index] Semantic Index (Section Map)
 
 - [botanical] Botanical, Chemical, and Pharmacopoeial Profile
+- [supply_chain] Supply Chain & Market Ethics
 - [pharmacology] Pharmacology and Mechanisms of Action
 - [clinical_evidence] Clinical Evidence and Applications
 - [dosing] Clinical Dosing and Administration
@@ -69,6 +82,24 @@ clinical_alert: "Enteric-coated formulations are ESSENTIAL for IBS to prevent he
 - [research] Future Research Directions
 - [conclusion] Conclusion
 - [references] References
+
+---
+
+## Supply Chain & Market Ethics
+
+### 1. Sourcing & Sustainability
+*   **Primary Sources:** USA (Pacific Northwest), India, China.
+*   **Cultivation:** Widely cultivated commercially. High water requirement.
+*   **Sustainability:** Generally sustainable due to widespread cultivation. However, intensive monoculture can lead to soil depletion and pest issues.
+
+### 2. Adulteration & Quality
+*   **Cornmint Adulteration:** The most common fraud is the addition of *Mentha arvensis* (Cornmint) oil, which is cheaper and has a harsher odor. It is often "dealcoholized" (menthol removed) and then mixed with synthetic menthol to mimic peppermint.
+*   **Synthetic Menthol:** Addition of nature-identical synthetic menthol to boost low-quality oils.
+*   **Authentication:** Chiral GC-MS is required to distinguish natural L-menthol from synthetic racemic mixtures.
+
+### 3. Ethical Considerations
+*   **Fair Trade:** While large-scale commercial farming exists, smaller growers in developing nations may face price volatility.
+*   **Pesticides:** Commercial mint is often heavily treated with pesticides. Organic certification is recommended for clinical use to avoid residue concentration in the essential oil.
 
 ---
 

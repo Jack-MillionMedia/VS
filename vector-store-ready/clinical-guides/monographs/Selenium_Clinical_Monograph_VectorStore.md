@@ -15,6 +15,20 @@ tags:
 source: "Summarized from online health-professional resources (e.g., NIH Office of Dietary Supplements selenium fact sheet, Food and Nutrition Board RDAs, and Harvard T.H. Chan Nutrition Source) and the clinical literature they reference on deficiency (Keshan and Kashin–Beck disease), parenteral nutrition, toxicity and drug–nutrient interactions."
 ---
 
+# Selenium — Clinical Monograph (Vector Store Ready)
+
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Deficiency** (Keshan Disease), **Thyroid Health** (Grade B), **Immune Support** (Grade B). |
+| **Key Constituents** | **Selenocysteine**, **Selenomethionine**. |
+| **Mechanism of Action** | **Antioxidant** (Glutathione Peroxidase), **Thyroid Deiodinases**. |
+| **Evidence Grade** | **Grade A:** Essential Nutrient. |
+| **Safety Profile** | **Narrow Therapeutic Index**. **Toxicity >400mcg**. **Selenosis Risk**. |
+| **Drug Interactions** | **Cisplatin** (Nephrotoxicity), **Statins** (Myopathy). |
+| **Dosing** | **55 mcg/day** (RDA). **UL:** 400 mcg. |
+
 ## Main Topic
 
 Selenium (Se, atomic number 34) is a trace element required in microgram amounts and incorporated as **selenocysteine** into at least 25 human selenoproteins, including glutathione peroxidases, thioredoxin reductases and selenoprotein P. These enzymes support antioxidant defense, thyroid hormone metabolism, DNA synthesis, reproduction and immune function. Plants absorb inorganic selenites/selenates from soil and convert them to organic forms (selenocysteine, selenomethionine), which humans efficiently absorb. About 28–46% of total body selenium is stored in skeletal muscle; the thyroid has the highest concentration due to deiodinase enzymes.
@@ -55,7 +69,7 @@ The Food and Nutrition Board has set **Recommended Dietary Allowances (RDAs)** f
 
 ---
 
-## Dietary Sources
+## Sources, Forms & Supply Chain
 
 Selenium content in foods varies widely with soil selenium levels, fertilization practices and geographic region. In general:
 

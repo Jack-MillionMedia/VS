@@ -53,6 +53,18 @@ clinical_alert: "Do not use ear drops if eardrum perforation is suspected."
 
 # Verbascum thapsus (Mullein) — Clinical Monograph
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Respiratory Conditions** (Grade C), **Ear Infections** (Grade C), **Wound Healing** (Grade C). |
+| **Key Constituents** | **Saponins** (Expectorant), **Mucilage** (Demulcent), **Iridoids**, **Flavonoids**. |
+| **Mechanism of Action** | **Demulcent/Expectorant** (Dual Action), **Anti-inflammatory**, **Antimicrobial**. |
+| **Evidence Grade** | **Grade C:** Strong Traditional Use, Limited RCTs. |
+| **Safety Profile** | **High Safety Margin**. **Ear Drops Contraindicated in Perforation**. |
+| **Drug Interactions** | **None Significant**. Theoretical additive effect with sedatives. |
+| **Dosing** | **Tea:** 1-2 tsp dried leaf. **Tincture:** 2-4 mL (1:5). **Ear Drops:** 2-3 drops. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Mullein (Verbascum thapsus). All PubMed citations have been verified with DOI links to original research where available. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 **DISCLAIMER:** This monograph is intended for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified healthcare provider with any questions regarding a medical condition.
@@ -600,7 +612,7 @@ Mullein is considered a "shapeshifter" herb that works best paired with other he
 
 ---
 
-## 8.0 Quality Control & Standardization
+## 8.0 Quality, Supply Chain & Market Ethics
 
 **CATEGORY:** Product Quality Assessment
 

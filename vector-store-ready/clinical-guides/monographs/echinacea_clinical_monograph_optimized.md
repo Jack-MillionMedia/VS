@@ -99,6 +99,16 @@ According to PubMed-indexed clinical trials, specific standardized alcoholic ext
 
 **Influenza Treatment:** Rauš et al. 2015 (n=473) demonstrated that Echinaforce Hotdrink was non-inferior to oseltamivir for recovery time with superior safety profile and fewer gastrointestinal adverse events ([DOI: 10.1016/j.curtheres.2015.04.001](https://doi.org/10.1016/j.curtheres.2015.04.001)).
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | Is it the right part of the right species? | **Critical.** **Latin Binomial:** *E. purpurea*. **Plant Part:** Root/Aerial. |
+| **Safety** | Interaction risk? | **Moderate.** Autoimmune caution (theoretical). Safe for short term. |
+| **Efficacy** | Human trial data? | **Grade A/B.** Prevention of URI (Pediatric/Adult). Quality varies wildly. |
+| **History** | Traditional vs Modern? | **Aligned.** Native American panacea. |
+| **Ethics** | Sustainability/Purity? | **High Risk.** Wild-harvesting pressure on *E. angustifolia*. *E. purpurea* is widely cultivated. |
+
 **Recent Meta-Analyses:** The 2024 ERA-PRIMA meta-analysis (Gancitano et al., 5,652 subjects across 30 trials) confirmed that Echinacea reduces monthly RTI occurrence (RR 0.68), RTI complications (RR 0.44), and antibiotic therapy need (RR 0.60), with alcoholic extracts from fresh Echinacea purpurea showing 80% reduction in antibiotic treatment days ([DOI: 10.3390/antibiotics13040364](https://doi.org/10.3390/antibiotics13040364)).
 
 ### Safety Profile
@@ -1713,6 +1723,19 @@ High-quality studies needed for:
 - Pharmacogenomic predictors of response
 - Cost-effectiveness analyses
 - Antibiotic stewardship impact studies
+
+## Supply Chain and Market Ethics
+
+### Sustainability Status
+*   **Cultivation:** *Echinacea purpurea* is widely cultivated and sustainable.
+*   **Wild-Harvesting:** *Echinacea angustifolia* is often wild-harvested from the Great Plains, leading to population decline. **Avoid wild-harvested *E. angustifolia* unless Certified Sustainably Grown.**
+
+### Adulteration and Purity Risks
+*   **Species Substitution:** *Parthenium integrifolium* root is a common adulterant.
+*   **Plant Part Substitution:** Cheaper aerial parts often substituted for roots in "root" products.
+*   **Extract Spiking:** Some extracts spiked with synthetic alkamides to mimic high-quality tingling sensation.
+
+> **Purchasing Advice:** Look for "Certified Organic" *E. purpurea* from reputable growers. If buying *E. angustifolia*, ensure it is cultivated, not wild-crafted.
 
 ## References and Bibliography
 

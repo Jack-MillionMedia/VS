@@ -52,6 +52,16 @@ study_counts:
 
 ## Clinician TL;DR
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Boswellia serrata* (Indian Frankincense); Gum Resin (Oleoresin). |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. Warfarin interaction (CYP2C9 inhibition); generally well-tolerated. |
+| **Efficacy** | Clinical strength rated? | **Yes**. Osteoarthritis (Grade A); IBD & Asthma (Grade B). |
+| **History** | **Traditional Use** context included? | **Yes**. Ayurvedic "Salai Guggal" for inflammation. |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. High sustainability risk (over-tapping); species authentication critical. |
+
 - **Core mechanisms**:
   - Pentacyclic triterpenic acids (boswellic acids) — especially **KBA** and **AKBA** — inhibit 5‑LOX → ↓ leukotrienes, and suppress NF‑κB activation → ↓ TNF‑α, IL‑1β, IL‑6 and downstream enzymes (mPGES‑1, cathepsin G, MAPKs).  
   - Additional activity against STAT3, Akt, MAPKs, p53, Bcl‑2 and Nrf2/HO‑1/NQO1 contributes to anticancer and neuroprotective signals.
@@ -264,6 +274,28 @@ study_counts:
   - Choose products with clear standardization (AKBA %, total BA %).  
   - Prefer brands with GMP certification and third-party CoAs.  
   - Use formulations with enhanced delivery (phytosome, micellar, water-soluble) when rapid or robust effect is needed.
+
+---
+
+## Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **High**
+*   **Species Confusion:** *Boswellia serrata* is the primary source of AKBA, but commercial "Frankincense" often contains other species like *B. papyrifera*, *B. sacra*, or *B. frereana*, which have different chemical profiles.
+*   **Resin Adulteration:** Crude gum resin is often adulterated with sand, bark, or cheaper resins to increase weight.
+*   **Extract Spiking:** Some "standardized" extracts may be spiked with exogenous boswellic acids rather than being true full-spectrum extracts.
+
+### Sustainability & Environmental Impact
+**Status:** **High Concern**
+*   **Over-Harvesting:** Boswellia trees are under severe threat from over-tapping (making too many incisions to harvest resin), which weakens and kills the trees.
+*   **Poor Regeneration:** Intense grazing and land-use changes prevent sapling regeneration. Populations in some regions are projected to collapse.
+*   **Ecological Impact:** The decline of Boswellia trees threatens the ecosystems they support in dryland regions.
+*   **CITES Status:** *Boswellia serrata* is not currently CITES listed, but trade is monitored due to sustainability concerns.
+
+### Certification & Sourcing Recommendations
+*   **FairWild:** **FairWild** certification is the gold standard for verifying sustainable wild-harvesting practices and fair labor conditions.
+*   **Sustainable Tapping:** Sourcing from suppliers who enforce strict tapping limits (resting trees for recovery) is essential.
+*   **Traceability:** Demand full traceability to the specific region of harvest to ensure species authenticity (*B. serrata* is primarily Indian).
 
 ---
 

@@ -47,6 +47,16 @@ clinical_alert: "⚠️ PEDIATRIC WARNING: Ingestion of pure clove oil (5-10 mL)
 
 # Syzygium aromaticum (Clove): Comprehensive Clinical Monograph
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Syzygium aromaticum*; Flower Bud (Medicinal) vs. Leaf/Stem. |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. **CRITICAL**: Pediatric Hepatotoxicity (Oil Ingestion). |
+| **Efficacy** | Clinical strength rated? | **Yes**. VAP Prevention (Grade A); Glycemic Control (Grade B). |
+| **History** | **Traditional Use** context included? | **Yes**. "Spice Islands" trade; TCM/Ayurveda. |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Cultivated (Indonesia/Madagascar); Fair Trade relevant. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Clove (Syzygium aromaticum) with critical emphasis on form-specific safety. All PubMed citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 **Evidence-Based Analysis with Form-Specific Risk Stratification, Breakthrough VAP Prevention Data, and Critical Pediatric Hepatotoxicity Warning**
@@ -998,7 +1008,28 @@ Clove's pharmacological effects are overwhelmingly driven by **eugenol** (4-ally
 
 ---
 
-## 9. Comparative Effectiveness vs. Standard of Care
+## 9. Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **High**
+*   **Part Substitution:** Lower-cost leaf and stem oils (lower eugenol, different profile) are often sold as "clove bud oil."
+*   **Exhausted Buds:** "Spent" buds (after distillation) are mixed with fresh buds; they look darker and float in water (fresh buds sink).
+*   **Synthetic Eugenol:** Synthetic eugenol is sometimes added to boost analysis results.
+
+### Sustainability & Environmental Impact
+**Status:** **Low Concern / Cultivated**
+*   **Cultivation:** Widely cultivated in Indonesia, Madagascar, Tanzania (Zanzibar), Sri Lanka.
+*   **Economic Importance:** Vital cash crop for smallholder farmers in these regions.
+*   **CITES Status:** Not listed.
+
+### Certification & Sourcing Recommendations
+*   **Certified Organic:** Recommended to avoid pesticide residues.
+*   **Fair Trade:** Important to ensure fair prices for farmers, as global prices fluctuate significantly.
+*   **Bud vs. Leaf/Stem:** Verify "Clove Bud Oil" (*Eugenia caryophyllata* or *Syzygium aromaticum* bud) for medicinal use.
+
+---
+
+## 10. Comparative Effectiveness vs. Standard of Care
 
 ### 9.1 Clove vs. Metformin (Glycemic Control)
 
@@ -1066,7 +1097,7 @@ Clove's pharmacological effects are overwhelmingly driven by **eugenol** (4-ally
 
 ---
 
-## 10. Research Gaps & Future Directions (Next 5-10 Years)
+## 11. Research Gaps & Future Directions (Next 5-10 Years)
 
 ### 10.1 Urgent Priority: Large-Scale RCTs for Glycemic Control
 
@@ -1151,7 +1182,7 @@ Clove's pharmacological effects are overwhelmingly driven by **eugenol** (4-ally
 
 ---
 
-## 11. Clinical Decision Support: Evidence-Based Protocols
+## 12. Clinical Decision Support: Evidence-Based Protocols
 
 ### 11.1 Protocol Card: Clove for Glycemic Control (Prediabetes/Type 2 DM)
 
@@ -1251,7 +1282,7 @@ Clove's pharmacological effects are overwhelmingly driven by **eugenol** (4-ally
 
 ---
 
-## 12. Red Flags & Emergency Triage
+## 13. Red Flags & Emergency Triage
 
 ### 12.1 LIFE-THREATENING Red Flags (Immediate Action Required)
 
@@ -1286,7 +1317,7 @@ Clove's pharmacological effects are overwhelmingly driven by **eugenol** (4-ally
 
 ---
 
-## 13. Summary & Evidence-Based Recommendations
+## 14. Summary & Evidence-Based Recommendations
 
 ### 13.1 Final Evidence Grading by Indication
 
@@ -1345,7 +1376,7 @@ Clove's pharmacological effects are overwhelmingly driven by **eugenol** (4-ally
 
 ---
 
-## 14. Key Clinical Pearls
+## 15. Key Clinical Pearls
 
 1. **"The Safety Dichotomy"**: Clove is **GRAS for culinary use** (1-5 whole buds/day) but **LIFE-THREATENING at medicinal concentrations** (pure clove oil ingestion). The dose makes the poison. **Never recommend pure essential oil ingestion**.
 
@@ -1369,7 +1400,7 @@ Clove's pharmacological effects are overwhelmingly driven by **eugenol** (4-ally
 
 ---
 
-## 15. Patient Education Handout
+## 16. Patient Education Handout
 
 ### **Clove (Syzygium aromaticum): What You Need to Know**
 

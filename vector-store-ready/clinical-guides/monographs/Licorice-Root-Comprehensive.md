@@ -56,6 +56,17 @@ clinical_alert: "⚠️ CRITICAL SAFETY WARNING: Regular consumption can cause l
 
 # Glycyrrhiza Species (Licorice Root): Comprehensive Clinical Monograph
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *G. glabra*, *G. uralensis*, *G. inflata* (Root). Species distinction is critical. |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. **FATAL TOXICITY RISK** (Pseudoaldosteronism). Contraindicated in Hypertension & Pregnancy. |
+| **Efficacy** | Clinical strength rated? | **Yes**. Topical RAS/POST (Grade A); IV Hepatitis (Grade B); Oral Ulcers (Grade D - Ineffective). |
+| **History** | **Traditional Use** context included? | **Yes**. "Harmonizing" herb in TCM; 4,000+ years of use. |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Wild harvesting concerns (desertification); Species adulteration risks. |
+
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Licorice Root (Glycyrrhiza species) with critical emphasis on documented fatal toxicity risks. All PubMed citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 ## [semantic_index] Semantic Index (Section Map)
@@ -74,6 +85,30 @@ clinical_alert: "⚠️ CRITICAL SAFETY WARNING: Regular consumption can cause l
 - [quality] QUALITY CONTROL, AUTHENTICATION, AND ADULTERATION
 - [clinical_decisions] CLINICAL DECISION SUPPORT FRAMEWORK
 - [case_studies] CASE STUDIES AND RED FLAGS
+
+## [supply_chain] Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **High**
+*   **Species Confusion:** The three main species (*G. glabra*, *G. uralensis*, *G. inflata*) are often sold interchangeably as "Licorice," despite having different chemical profiles and drug interaction risks (e.g., *G. inflata* inhibits CYP3A4, while others induce it).
+*   **"Black Licorice" Confusion:** Many candy products labeled "black licorice" in the US contain **Anise Oil** (*Pimpinella anisum*) instead of licorice extract. These products lack glycyrrhizin and its associated therapeutic/toxic effects.
+*   **Extraction Solvents:** "Deglycyrrhizinated Licorice" (DGL) requires specific processing; poorly processed DGL may still contain significant glycyrrhizin.
+
+### Sustainability & Environmental Impact
+**Status:** **Mixed (Cultivated & Wild-Harvested)**
+*   **Wild Harvesting:** *G. uralensis* and *G. inflata* are largely wild-harvested in China and Mongolia. Over-harvesting has contributed to **desertification** and ecological damage in these regions, leading to government restrictions.
+*   **Cultivation:** *G. glabra* is widely cultivated in Europe and the Middle East, presenting a more sustainable option.
+
+### Certification & Sourcing Recommendations
+*   **Species Specificity:** **Essential**. Clinicians should demand products that specify the exact Latin binomial to predict interactions and efficacy.
+*   **Standardization:** Look for extracts standardized to **Glycyrrhizin** (for hepatitis/viral use) or **Glabridin** (for *G. glabra* functional dyspepsia/skin use).
+*   **DGL Verification:** For ulcer/gut health, ensure the product is certified **Deglycyrrhizinated** (<1-3% glycyrrhizin) to avoid toxicity.
+
+### Recommended Products
+*   **Topical:** Bioadhesive patches or high-viscosity gels (for RAS).
+*   **Oral (Gut):** DGL chewable tablets (to mix with saliva).
+*   **Oral (Systemic):** Use with extreme caution; standardized extracts only under medical supervision.
+
 
 ---
 

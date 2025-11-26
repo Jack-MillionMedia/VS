@@ -51,6 +51,18 @@ clinical_alert: "SERM activity. Avoid in hormone-sensitive cancers. In vivo data
 
 # Trifolium pratense (Red Clover) — Evidence-Based Clinical Monograph
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Menopause:** Vasomotor Symptoms (Hot Flashes). **Bone Health:** Osteopenia (L-Spine). **Lipids:** Hypercholesterolemia. |
+| **Key Constituents** | **Isoflavones** (Biochanin A, Formononetin) -> Metabolized to Genistein/Daidzein. |
+| **Mechanism of Action** | **SERM** (Selective Estrogen Receptor Modulator) with **ERβ preference**. Nrf2 activation (Neuroprotection). |
+| **Evidence Grade** | **VMS:** Grade B (Conflicting). **Bone:** Grade C (L-Spine only). **Lipids:** Grade C. |
+| **Safety Profile** | **Pregnancy:** Contraindicated. **ER+ Cancer:** Precautionary Contraindication (SERM). **Bleeding:** Rare reports. |
+| **Drug Interactions** | **CYP Inhibitor (In Vitro):** Potent. **In Vivo:** NO clinically relevant interaction (Phase II conjugation). **Tamoxifen:** Avoid. |
+| **Dosing** | **VMS:** 80 mg isoflavones daily. **Bone:** 150 mL extract (37 mg isoflavones). |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Red Clover (Trifolium pratense). All PubMed/PMC citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 **MEDICAL DISCLAIMER**: This monograph is intended for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified healthcare provider with any questions you may have regarding a medical condition.
@@ -59,6 +71,7 @@ clinical_alert: "SERM activity. Avoid in hormone-sensitive cancers. In vivo data
 
 - [overview] Document Overview and Purpose
 - [clinician_tldr] Quick Reference: Clinician TL;DR
+- [supply_chain] Supply Chain & Market Ethics
 - [pharmacology_summary] Core Pharmacological Summary
 - [evidence_map] Evidence Map Table
 - [botany] Botany & Pharmacognosy
@@ -85,6 +98,23 @@ clinical_alert: "SERM activity. Avoid in hormone-sensitive cancers. In vivo data
 - [research] Research Frontiers (Next 5 Years)
 - [source_audit] Source Audit Log (Summary Table)
 - [references] Bibliography & References
+
+---
+
+## Supply Chain & Market Ethics
+
+### 1. Sourcing & Sustainability
+*   **Primary Sources:** Europe, North America.
+*   **Cultivation:** Widely cultivated as a fodder crop (nitrogen fixer). Very sustainable.
+*   **Harvesting:** Blossoms are harvested in full bloom.
+
+### 2. Adulteration & Quality
+*   **Species Confusion:** *Trifolium repens* (White Clover) is a common adulterant/substitute. It has a different chemical profile.
+*   **Part Used:** Must be the **flower head** (*Trifolii flos*). Inclusion of leaves/stems dilutes isoflavone content.
+*   **Standardization:** Critical. Isoflavone content varies wildly based on harvest time and variety. Clinical efficacy depends on **standardized isoflavone content** (e.g., 40-80mg).
+
+### 3. Ethical Considerations
+*   **Pesticides:** As a fodder crop, conventional red clover may be treated. Organic certification is preferred for clinical extracts to avoid residue concentration.
 
 ---
 

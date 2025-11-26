@@ -59,11 +59,24 @@ study_counts:
 clinical_alert: "Contraindicated in pregnancy due to anti-fertility effects. High risk of hypoglycemia when combined with insulin or sulfonylureas."
 ---
 
+# Holy Basil (Ocimum sanctum) Clinical Monograph
+
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Ocimum sanctum* (Leaf). Krishna/Rama varieties. |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. Pregnancy contraindication (anti-fertility); Hypoglycemia risk. |
+| **Efficacy** | Clinical strength rated? | **Yes**. Stress/Anxiety (Grade A); Metabolic (Grade B). |
+| **History** | **Traditional Use** context included? | **Yes**. "Tulsi" (Sacred in Ayurveda/Hinduism). |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Heavy metal risks; Adulteration with Sweet Basil. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Holy Basil (Ocimum sanctum). All PubMed citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 ## [semantic_index] Semantic Index (Section Map)
 
 - [introduction] INTRODUCTION AND HISTORICAL CONTEXT
+- [supply_chain] SUPPLY CHAIN & MARKET ETHICS
 - [botanical] BOTANICAL PROFILE AND PHYTOCHEMISTRY
 - [mechanisms] PHARMACOLOGICAL MECHANISMS OF ACTION
 - [clinical_efficacy] CLINICAL EFFICACY: THERAPEUTIC APPLICATIONS
@@ -133,6 +146,30 @@ Holy Basil exists in three primary varieties, each with distinct morphological c
 - Pharmacists and pharmacy students
 - Research scientists investigating botanical medicines
 - Healthcare consumers seeking evidence-based information
+
+---
+
+## 1.4 Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **Moderate**
+*   **Species Substitution:** Often substituted with *Ocimum basilicum* (Sweet Basil) or *Ocimum gratissimum* (Vana/Clove Basil) which have different chemical profiles. True "Tulsi" is *O. sanctum* (Krishna/Rama).
+*   **Heavy Metals:** **High Risk**. Plants grown in polluted areas of India can accumulate Lead, Chromium, and Cadmium.
+*   **Pesticides:** Conventional crops often treated.
+
+### Sustainability & Environmental Impact
+**Status:** **Widely Cultivated**
+*   **Cultivation:** Extensively cultivated in India; not endangered.
+*   **Sourcing:** Prefer organic cultivation to ensure soil health and absence of pesticides.
+
+### Certification & Sourcing Recommendations
+*   **Certified Organic:** **Essential** to avoid pesticide residues and minimize heavy metal risk (organic standards often include soil testing).
+*   **Standardization:** Look for extracts standardized to **Ursolic Acid** (>2%) or **Eugenol**.
+*   **Variety:** "Krishna" (Purple) and "Rama" (Green) are the preferred medicinal varieties.
+
+### Recommended Products
+*   **Extracts:** CO2 or Hydroalcoholic extracts standardized to triterpenoids (Ursolic acid).
+*   **Tea:** Organic dried leaf.
 
 ---
 

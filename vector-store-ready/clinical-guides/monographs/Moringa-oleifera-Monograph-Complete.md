@@ -53,6 +53,18 @@ clinical_alert: "High risk of heavy metal and microbial contamination. Third-par
 
 # *Moringa oleifera*: A Comprehensive Pharmacological and Clinical Evidence Report
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Lactation Support** (Grade B), **HIV Immune Support** (Grade B), **Malnutrition**. |
+| **Key Constituents** | **Isothiocyanates (MIC-1)**, **Quercetin**, **Kaempferol**, **Chlorogenic Acid**. |
+| **Mechanism of Action** | **Nrf2 Activation**, **NF-kB Inhibition**, **HMG-CoA Reductase Inhibition**. |
+| **Evidence Grade** | **Grade B:** Lactation, HIV. **Grade C:** Diabetes/Lipids (Contradictory). |
+| **Safety Profile** | **Generally Safe** (Leaf). **Root Bark Toxic**. **High Contamination Risk**. |
+| **Drug Interactions** | **CYP3A4 Substrates** (High Risk). **Statins** (Additive). **Metformin**. |
+| **Dosing** | **500 mg - 8 g** Leaf Powder. **Must be Contaminant-Tested**. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Moringa (Moringa oleifera). All PubMed/PMC citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 **MEDICAL DISCLAIMER**: This monograph is intended for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified healthcare provider with any questions you may have regarding a medical condition.
@@ -292,7 +304,7 @@ The use of *Moringa* in pregnancy and lactation presents a critical paradox, as 
 
 This evidence creates a dangerous paradox. We have a situation where a clinical trial is investigating *Moringa* as a *treatment* to detoxify heavy metals in pregnant women 44, while, as the next section will detail, commercial *Moringa* products are a well-documented *source* of heavy metal contamination.20 This implies that the *source* and *quality* of the MO product are not minor details; they are the difference between a therapeutic intervention and a teratogenic threat.
 
-## [risk_profile] Significant Risk Profile: Contamination, Adulteration, and Quality Control
+## [risk_profile] Quality, Supply Chain & Market Ethics
 
 The single greatest risk associated with *Moringa oleifera* consumption is not its intrinsic toxicology (which is mild) 29, but the severe and documented risk of extrinsic contamination.
 

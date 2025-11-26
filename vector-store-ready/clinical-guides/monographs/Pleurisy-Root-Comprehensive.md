@@ -47,12 +47,25 @@ clinical_alert: "Historical remedy only. Use with caution due to potential cardi
 
 # Pleurisy Root (Asclepias tuberosa) - Clinical Monograph
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Respiratory:** Pleurisy, Bronchitis, Pneumonia (Adjunct), Chest Congestion. |
+| **Key Constituents** | **Cardenolides** (Trace), Flavonoids (Rutin), Resins, Pregnane glycosides. |
+| **Mechanism of Action** | **Vagus Nerve Stimulation** (Diaphoretic/Expectorant), Bronchial dilation, Lymphatic drainage. |
+| **Evidence Grade** | **Respiratory:** Grade D (Traditional/Historical). |
+| **Safety Profile** | **Pregnancy:** CONTRAINDICATED (Uterine stimulation). **Lactation:** Insufficient data. **High Dose:** Nausea/Vomiting. |
+| **Drug Interactions** | **Cardiac Glycosides:** Potential additive effect (theoretical). |
+| **Dosing** | **Decoction:** 1-2 g dried root TID. **Tincture (1:5):** 2-4 mL TID. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Pleurisy Root (Asclepias tuberosa). Historical pharmacopoeial use and traditional applications are documented. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 ## [semantic_index] Semantic Index (Section Map)
 
 - [tldr] Quick Reference: Clinician TL;DR
 - [botanical] Botanical Identity
+- [supply_chain] Supply Chain & Market Ethics
 - [traditional] Traditional Use & History
 - [clinical_evidence] Clinical Evidence
 - [respiratory] Respiratory Conditions
@@ -60,6 +73,22 @@ clinical_alert: "Historical remedy only. Use with caution due to potential cardi
 - [dosing] Dosing & Administration
 - [clinical_practice] Clinical Practice Guidelines
 - [references] References & Bibliography
+
+---
+
+## Supply Chain & Market Ethics
+
+### 1. Sourcing & Sustainability
+*   **Primary Sources:** United States (Wild-harvested).
+*   **Conservation Status:** *Asclepias tuberosa* is a critical host plant for the **Monarch Butterfly**. While not currently endangered, ethical wildcrafting is essential to preserve Monarch habitat.
+*   **Cultivation:** Increasingly cultivated in native plant nurseries, which is the preferred source to reduce pressure on wild populations.
+
+### 2. Adulteration & Quality
+*   **Species Confusion:** Can be confused with other *Asclepias* species (Milkweeds) which contain significantly higher levels of toxic cardiac glycosides. *A. tuberosa* is distinct in lacking the milky latex sap.
+*   **Part Used:** The **ROOT** is the medicinal part. Aerial parts are not typically used in modern practice.
+
+### 3. Ethical Considerations
+*   **Monarch Conservation:** The primary ethical consideration is the impact on Monarch butterfly populations. Clinicians should prioritize **cultivated sources** over wild-harvested roots to support pollinator conservation.
 
 ---
 

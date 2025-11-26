@@ -60,6 +60,18 @@ clinical_alert: "CRITICAL: High risk of heavy metal contamination in raw/unpurif
 
 # Shilajit (Mumijo) — Clinical Monograph
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Testosterone Deficiency** (Grade A), **Male Infertility** (Grade B), **Female Sexual Dysfunction** (Grade B). |
+| **Key Constituents** | **Fulvic Acid** (Carrier/Antioxidant), **Dibenzo-alpha-pyrones**, **Trace Minerals** (Zn, Se, Sr). |
+| **Mechanism of Action** | **Mitochondrial Biogenesis** (ATP), **Steroidogenesis**, **Antioxidant**, **Adaptogenic**. |
+| **Evidence Grade** | **Grade A:** RCTs for Testosterone & Fertility. |
+| **Safety Profile** | **High Safety** if Purified. **Heavy Metal Risk** in Raw Form. **Avoid in Gout/Hemochromatosis**. |
+| **Drug Interactions** | **Antidiabetics** (Additive), **Antihypertensives**, **Immunosuppressants** (Theoretical). |
+| **Dosing** | **250-500 mg/day** Purified Extract (e.g., PrimaVie). |
+
 **DOCUMENT CONTEXT:** This monograph synthesizes clinical trial evidence and traditional medicine knowledge on Shilajit (Mumijo), a complex phyto-mineral resin rich in fulvic acids, humic substances, and trace minerals. Shilajit is classified in Ayurveda as a Rasayana (rejuvenative) and has documented effects on testosterone, male fertility, female sexual function, exercise performance, mitochondrial function, and bone health. Quality control and standardization are critical due to variable composition and contamination risks.
 
 **USAGE PRIORITY:** Defer to this file for Shilajit clinical evidence, traditional applications, dosing protocols, and safety guidance unless newer (post-2024) clinical data are explicitly cited.
@@ -270,7 +282,7 @@ Key sources cited in this artifact: randomized trials and reviews summarizing th
 
 ---
 
-### 3. Quality, Purification, and Forms
+### 3. Quality, Supply Chain & Market Ethics
 
 - Raw Shilajit scraped from rocks contains soil, sand, rock fragments, oxidized material, and sometimes animal droppings; it must be **purified** before use.
 - Purification typically involves dissolving the raw material in water, repeatedly filtering it, and evaporating the water to obtain a clean concentrate.

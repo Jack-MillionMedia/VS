@@ -53,12 +53,22 @@ clinical_alert: "CRITICAL WARNING: Products labeled 'Tejocote Root' (Crataegus m
 
 # Crataegus Species (Hawthorn): Comprehensive Clinical Monograph
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Crataegus spp.* (Leaf/Flower for CHF). *C. pinnatifida* (Berry). |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. Safe (Grade A). **CRITICAL WARNING**: "Tejocote" adulteration. |
+| **Efficacy** | Clinical strength rated? | **Yes**. CHF (Grade B - Mixed); Hypertension (Grade B). |
+| **History** | **Traditional Use** context included? | **Yes**. European (Heart tonic); TCM (Digestion/Stasis). |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Adulteration with lethal Yellow Oleander; Standardization issues. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Hawthorn (Crataegus spp.) for cardiovascular conditions. All PubMed citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 ## [semantic_index] Semantic Index (Section Map)
 
 - [clinician_tldr] Clinician TL;DR - Hawthorn Clinical Summary
-- [quality] Quality & Adulteration Checklist - Hawthorn Product Standards
+- [supply_chain] Supply Chain & Market Ethics - Hawthorn Product Standards
 - [traditional] Traditional Use - Hawthorn Historical Applications
 - [preclinical] Preclinical Data - Hawthorn Mechanisms and Pharmacology
 - [clinical_evidence] Human Clinical Evidence - Hawthorn Clinical Studies
@@ -118,24 +128,29 @@ For clinicians, the central takeaway about Hawthorn is caution. Hawthorn's estab
 
 ---
 
-## 2. Quality & Adulteration Checklist — Hawthorn Product Standards
+## 2. Supply Chain & Market Ethics — Hawthorn Product Standards
 
-**Herb:** Hawthorn (Crataegus spp.)
+### Adulteration & Identity Risks
+**Risk Level:** **High (Specific Products)**
+*   **"Tejocote" Root:** **CRITICAL RISK**. Products labeled as *Crataegus mexicana* (Tejocote) for weight loss are frequently adulterated with **Yellow Oleander** (*Cascabela thevetia*), which contains lethal cardenolides. **Avoid all such products.**
+*   **Species Substitution:** *C. monogyna* and *C. laevigata* are the standard for heart failure (Leaf/Flower). Berry preparations (*C. pinnatifida*) have different indications (digestion/lipids).
+*   **Pesticides:** Commercial leaf products have shown pesticide residues.
 
-| Parameter | Recommended Standard / Threshold | Risk / Detection Method |
-| :--- | :--- | :--- |
-| **Botanical Identity — Hawthorn Species** | Latin binomial name specified (e.g., *Crataegus monogyna*, *C. laevigata*, *C. pinnatifida*). DNA barcoding is ideal for Hawthorn authentication. | Unspecified species can lead to incorrect preparation and potential toxicity. *C. mexicana* (tejocote) root is frequently adulterated. |
-| **Plant Part Used — Hawthorn Material** | Clearly stated (e.g., Hawthorn leaf, flower, berry, fruit). Different Hawthorn parts have varying phytochemical profiles. | Hawthorn leaves/flowers are used for cardiovascular effects (e.g., WS 1442); Hawthorn berries/fruits are used in TCM (e.g., Shanzha). |
-| **Extraction Solvent — Hawthorn Extract Method** | Information required. Common solvents for Hawthorn include water, ethanol, methanol. | The solvent determines which chemical constituents are extracted from Hawthorn. Ethanol (45% or 70%) is common for standardized Hawthorn extracts like WS 1442 and LI 132. |
-| **Standardization Marker — Hawthorn Active Compounds** | Must be specified and quantified for Hawthorn products. The most studied Hawthorn extracts are: <br>- **WS 1442:** Standardized to 18.75% oligomeric procyanidins (OPCs). <br>- **LI 132:** Standardized to 2.2% flavonoids (as hyperoside). | Lack of standardization makes comparing Hawthorn products and extrapolating clinical data impossible. Non-standardized Hawthorn preparations lack robust evidence. |
-| **Marker Content — Hawthorn Quality Control** | OPC content for WS 1442: 17.3–20.1%. Flavonoid content for LI 132: 2.2%. | These values ensure batch-to-batch consistency of Hawthorn products and provide a reliable dose of the active compounds. |
-| **Drug-Extract Ratio (DER) — Hawthorn Concentration** | Should be declared for Hawthorn products. E.g., WS 1442 has a DER of 4–7:1. | Provides context for the concentration of the Hawthorn extract. |
-| **Chromatographic Fingerprint — Hawthorn Identity** | Recommended for quality control of Hawthorn to ensure consistent phytochemical profile. | Helps confirm Hawthorn identity and detect substitution or dilution. |
-| **Heavy Metals & Pesticides — Hawthorn Contaminants** | Hawthorn products must be below regulatory limits (e.g., USP <561>). | Commercial Hawthorn leaf products have shown contamination with multiple pesticides, posing a health risk. |
-| **Microbial Contaminants — Hawthorn Purity** | Hawthorn products must meet microbial limit tests (e.g., USP <61>). | Ensures Hawthorn product is free from pathogenic bacteria and fungi. |
-| **Adulteration Risks — Hawthorn Safety** | Screen for common adulterants in Hawthorn. Specifically test for yellow oleander (*Cascabela thevetia*) if product is labeled "tejocote root". | Yellow oleander is a fatal contaminant found in some weight-loss supplements marketed as *C. mexicana*. |
+### Sustainability & Environmental Impact
+**Status:** **Stable / Wild Harvested**
+*   **Sourcing:** Widely distributed in Europe and Asia. Both wild-harvested and cultivated.
+*   **Conservation:** Generally not threatened, but quality varies by region and harvest time.
 
----
+### Certification & Sourcing Recommendations
+*   **Standardization:** **Essential**.
+    *   **WS 1442:** 18.75% Oligomeric Procyanidins (OPCs).
+    *   **LI 132:** 2.2% Flavonoids (Hyperoside).
+*   **Solvent:** Ethanol/Water ratios affect phytochemical profile (OPCs vs Flavonoids).
+*   **Testing:** DNA barcoding recommended to rule out toxic adulterants in "root" products.
+
+### Recommended Products
+*   **Clinical Extracts:** WS 1442 (Dr. Willmar Schwabe) is the gold standard for CHF research.
+*   **TCM:** *C. pinnatifida* (Shanzha) for digestive/lipid support.
 
 ## 3. Traditional Use — Hawthorn Historical Applications
 

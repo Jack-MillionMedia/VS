@@ -58,6 +58,18 @@ clinical_alert: "CRITICAL: Avoid in hormone-sensitive cancers (prostate, breast)
 
 # Tongkat Ali (*Eurycoma longifolia*) — Clinical Monograph
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Male Hypogonadism** (Grade B), **Erectile Dysfunction** (Grade B), **Male Infertility** (Grade B), **Stress/Cortisol** (Grade B). |
+| **Key Constituents** | **Eurycomanone** (Marker), **Quassinoids**, **Eurypeptides**, **Canthin-6-one Alkaloids**. |
+| **Mechanism of Action** | **Increases Free Testosterone** (Inhibits SHBG), **Reduces Cortisol**, **Mild PDE5 Inhibition**. |
+| **Evidence Grade** | **Grade B:** Testosterone Support, Sexual Function, Stress. **Grade C:** Athletic Performance. |
+| **Safety Profile** | **Excellent Safety Profile**. Well-tolerated in long-term studies. |
+| **Drug Interactions** | **Hypoglycemics** (Monitor glucose). **Immunosuppressants** (Theoretical). |
+| **Dosing** | **200-400 mg/day**. Standardized to **0.8-1.5% Eurycomanone**. |
+
 **DOCUMENT CONTEXT:** This clinical monograph provides healthcare professionals with evidence-based information on Tongkat Ali (*Eurycoma longifolia*), a Southeast Asian adaptogenic herb with robust clinical evidence for testosterone support, sexual function enhancement, and stress reduction. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 ## [semantic_index] Semantic Index
@@ -74,7 +86,7 @@ clinical_alert: "CRITICAL: Avoid in hormone-sensitive cancers (prostate, breast)
 - [safety] Safety Profile and Contraindications
 - [interactions] Drug and Herb Interactions
 - [clinical_practice] Clinical Practice Guidelines
-- [quality] Quality Control and Standardization
+- [quality] Quality, Supply Chain & Market Ethics
 - [pearls] Clinical Pearls
 - [references] References
 
@@ -672,7 +684,7 @@ BECAUSE addresses both physiological and psychological components of ED**
 
 ---
 
-## Quality Control and Standardization
+## Quality, Supply Chain & Market Ethics
 
 ### Quality Concerns
 

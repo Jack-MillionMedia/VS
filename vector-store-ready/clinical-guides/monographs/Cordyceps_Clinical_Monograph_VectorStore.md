@@ -46,6 +46,18 @@ study_counts:
 clinical_alert: "⚠️ KIDNEY SUPPORT: Strong evidence (Grade A) for CKD adjunctive therapy. Use standardized fermentation products (Cs-4) for consistent dosing."
 ---
 
+# Cordyceps (C. sinensis & C. militaris): Comprehensive Clinical Monograph - Evidence-Based Review
+
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Ophiocordyceps sinensis* vs *C. militaris*; Mycelium vs Fruit Body. |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. Autoimmune caution; Bleeding risk (theoretical). |
+| **Efficacy** | Clinical strength rated? | **Yes**. CKD (Grade A); Athletic Performance (Grade B). |
+| **History** | **Traditional Use** context included? | **Yes**. "Winter Worm, Summer Grass"; TCM Kidney tonic. |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Wild vs Cultivated (Fermentation); Arsenic risk in wild. |
+
 ## Main Topic
 
 *Cordyceps sinensis* (often now classified as *Ophiocordyceps sinensis*) and *Cordyceps militaris* are parasitic fungi traditionally used in Chinese and Tibetan medicine for fatigue, respiratory disorders, sexual dysfunction and kidney disease. Wild *C. sinensis* (“winter-worm summer-grass”) is rare and expensive; most modern clinical research uses **cultivated mycelial products** (e.g., Cs-4, Bailing capsule, Jinshuibao) or **cultivated *C. militaris*** extracts, which have distinct chemical profiles and clinical indications.
@@ -273,6 +285,26 @@ clinical_alert: "⚠️ KIDNEY SUPPORT: Strong evidence (Grade A) for CKD adjunc
     - Clearly label species and preparation (wild vs cultivated; *C. sinensis* vs *C. militaris*).  
     - Are standardized to known marker compounds and provide certificates of analysis.  
     - Are third-party tested (e.g., NSF, USP) for identity, potency and contaminants.
+
+---
+
+## Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **High (Wild) / Low (Cultivated)**
+*   **Wild *C. sinensis*:** Extremely high fraud risk due to astronomical price ($20,000+/kg). Often adulterated with lead wire (to increase weight), other *Cordyceps* species, or molds.
+*   **Heavy Metals:** Wild specimens often contain high levels of arsenic and lead from the soil in the Himalayas.
+*   **Cultivated Products:** Generally safer and more consistent, but strain authenticity (Cs-4 vs generic mycelium) varies.
+
+### Sustainability & Environmental Impact
+**Status:** **Wild = Endangered / Cultivated = Sustainable**
+*   **Wild Harvest:** Over-harvesting on the Tibetan Plateau has caused severe ecological damage and population collapse. Listed as **Vulnerable** by IUCN.
+*   **Cultivation:** Fermentation (liquid culture) and rice-substrate cultivation are highly sustainable, scalable, and protect wild populations.
+
+### Certification & Sourcing Recommendations
+*   **Cultivated Preference:** **ALWAYS recommend cultivated/fermented products** (Cs-4, *C. militaris*) over wild for safety, sustainability, and cost.
+*   **Organic Certification:** Important for cultivated substrates (rice/grain) to avoid pesticide residues.
+*   **Heavy Metal Testing:** Mandatory for all Cordyceps products, but especially critical if any "wild" material is claimed.
 
 ---
 

@@ -68,6 +68,16 @@ version: "1.2 - HDKO Standardized"
 
 ## Quick Reference: Clinician TL;DR
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Bacopa monnieri*; Whole plant/aerial parts. |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. GI upset; caution with anticholinergics; heavy metal risk (aquatic). |
+| **Efficacy** | Clinical strength rated? | **Yes**. Memory/Cognition (Grade B); Anxiety (Grade C). |
+| **History** | **Traditional Use** context included? | **Yes**. Ayurvedic "Medhya Rasayana" (intellect promoter). |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Wild-harvesting concerns; heavy metal accumulation in aquatic sourcing. |
+
 ### Evidence Grade Summary
 
 **Cognitive Enhancement (Memory, Attention): Evidence Grade B**
@@ -704,6 +714,18 @@ Bacopa demonstrates multi-target cognitive enhancement:
 - Third-party testing
 - Botanical authentication
 
+### 10.5 Supply Chain & Market Ethics
+
+**Adulteration Risk:**
+- **Medium Risk:** Often confused with *Centella asiatica* (Gotu Kola) as both are called "Brahmi" in India.
+- **Substitution:** Sometimes substituted with other aquatic plants like *Bacopa floribunda* or *Malva rotundifolia*.
+
+**Sustainability & Sourcing:**
+- **CITES Status:** Not listed.
+- **Sourcing:** Sourced from both wild-harvest and cultivation in India.
+- **Environmental Concern:** As an aquatic plant, *Bacopa monnieri* is a hyperaccumulator of heavy metals (lead, arsenic, mercury) from polluted water sources. Rigorous heavy metal testing is non-negotiable.
+- **Certifications:** Organic certification is highly recommended to ensure clean water source.
+
 ---
 
 ## 11.0 Clinical Pearls & Practical Tips
@@ -787,6 +809,19 @@ While effective in all age groups, strongest evidence and largest effect sizes s
 - Depression: Adaptogenic effects may support mood (requires research)
 
 ---
+
+## 12.5 Supply Chain and Market Ethics
+
+### Sustainability Status
+*Bacopa monnieri* is a water-loving plant often wild-harvested from marshy areas. Increased global demand has put pressure on wild populations, leading to its classification as a priority species for cultivation in India.
+
+### Adulteration and Quality
+*   **Heavy Metals:** As an aquatic accumulator, Bacopa is prone to absorbing heavy metals (lead, mercury, arsenic) from contaminated water sources. Strict testing is essential.
+*   **Adulteration:** Sometimes adulterated with other small creeping plants, though less common than chemical contamination.
+
+### Purchasing Advice
+*   **Sourcing:** Cultivated sources grown in controlled water environments are preferred to minimize heavy metal risk.
+*   **Standardization:** Look for extracts standardized to % bacosides (typically 20-50%).
 
 ## 13.0 References & Bibliography
 

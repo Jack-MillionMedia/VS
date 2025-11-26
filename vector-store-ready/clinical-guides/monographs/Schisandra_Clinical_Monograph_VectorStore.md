@@ -62,6 +62,18 @@ clinical_alert: "CRITICAL: Potent CYP3A4 inhibitor. Contraindicated with narrow 
 
 # Schisandra chinensis — Evidence-Based Clinical Monograph
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Hepatoprotection** (Liver Injury), **Adaptogen** (Muscle Strength), **Menopausal Symptoms**, **Prediabetes**. |
+| **Key Constituents** | **Dibenzocyclooctadiene Lignans** (Schisandrin, Gomisin A), **Polysaccharides**, **Essential Oil**. |
+| **Mechanism of Action** | **Antioxidant** (Nrf2 activation), **Anti-inflammatory** (NF-κB inhibition), **CYP3A4 Modulation** (Inhibition/Induction). |
+| **Evidence Grade** | **Grade A:** Hepatoprotection. **Grade B:** Muscle Strength, Menopause. **Grade C:** Hyperglycemia. |
+| **Safety Profile** | **Generally Safe** at therapeutic doses. **Contraindicated** in Pregnancy (uterine stimulant). |
+| **Drug Interactions** | **HIGH RISK:** Potent **CYP3A4 & P-gp Inhibitor**. Contraindicated with narrow therapeutic index drugs (Tacrolimus, Warfarin). |
+| **Dosing** | **1.5–6g dried fruit/day**. **Standardized Extract:** 20-40mg lignans daily. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Schisandra chinensis (Wu Wei Zi). All citations have been verified with links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 **Document Purpose:** This monograph provides a comprehensive, evidence-based analysis of *Schisandra chinensis*, also known as Wu Wei Zi or Omija. The information presented adheres to a strict hierarchy of evidence, prioritizing systematic reviews, randomized controlled trials, and observational studies over preclinical data and traditional use. The goal is to deliver actionable clinical guidance for clinicians and researchers.
@@ -73,7 +85,7 @@ clinical_alert: "CRITICAL: Potent CYP3A4 inhibitor. Contraindicated with narrow 
 - [clinical_evidence] Human Clinical Evidence Map
 - [dosing] Dosing & Administration Protocols
 - [safety] Safety Profile & Toxicology
-- [quality] Quality Control & Adulteration
+- [supply_chain] Quality, Supply Chain & Market Ethics
 - [comparative] Comparative Analysis & Clinical Decision Rules
 - [case_studies] Case Studies & Research Frontiers
 - [red_flags] Red Flags & Triage Parameters
@@ -198,7 +210,7 @@ In conclusion, while *Schisandra chinensis* is generally well-tolerated, its saf
 
 ---
 
-## Quality Control & Adulteration
+## Quality, Supply Chain & Market Ethics
 
 Ensuring the quality, purity, and authenticity of *Schisandra chinensis* products is a critical challenge in herbal medicine, as adulteration can compromise both efficacy and safety. The primary issue stems from the frequent substitution of *Schisandra chinensis* (North Wu wei zi) with *Schisandra sphenanthera* (South Nanwuwei zi) in the market [[30](https://www.sciencedirect.com/science/article/abs/pii/S073170851630485X), [32](https://www.researchgate.net/publication/395895340_Identification_of_Schisandra_chinensis_Seeds_and_Exclusion_of_Common_Adulterants_by_Allele-Specific_PCR_Based_on_ITS2_Sequences)]. While both species are used medicinally, they differ in their chemical composition and clinical effects, with *S. sphenanthera* being less potent in certain systems [[30](https://www.sciencedirect.com/science/article/abs/pii/S073170851630485X)]. Rigorous analytical methods are therefore essential for authentication and quality control.
 

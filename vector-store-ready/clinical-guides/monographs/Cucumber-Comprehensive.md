@@ -43,6 +43,16 @@ clinical_alert: "⚠️ OSTEOARTHRITIS SUPPORT: One RCT shows standardized extra
 
 # Cucumber (Cucumis sativus) - Clinical Monograph
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Cucumis sativus*; Fruit/Seed. |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. Ragweed Allergy (Oral Allergy Syndrome). |
+| **Efficacy** | Clinical strength rated? | **Yes**. Osteoarthritis (Grade C - One RCT). |
+| **History** | **Traditional Use** context included? | **Yes**. Cooling/Hydrating; Ayurveda/TCM. |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Widely cultivated; Pesticide risk (Organic preferred). |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Cucumber (Cucumis sativus) for medicinal applications. All PubMed citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 ## [semantic_index] Semantic Index (Section Map)
@@ -351,7 +361,26 @@ Cucumber demonstrates surprising medicinal potential beyond its culinary use. Cl
 
 ---
 
-## 9.0 Quality Control & Product Selection
+## 9.0 Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **Low**
+*   **Identity:** Cucumber is a common food crop; adulteration is rare for the whole fruit.
+*   **Extracts:** Proprietary extracts (e.g., Q-Actin™) must be verified for authenticity to ensure they match the clinical trial material.
+*   **Pesticides:** Cucumbers are often on the "Dirty Dozen" list for pesticide residues.
+
+### Sustainability & Environmental Impact
+**Status:** **Low Concern / Cultivated**
+*   **Cultivation:** Widely cultivated globally. High water footprint but generally sustainable.
+*   **Sourcing:** Local sourcing is often possible to reduce carbon footprint.
+
+### Certification & Sourcing Recommendations
+*   **Organic:** Highly recommended due to edible skin and pesticide use in conventional farming.
+*   **Standardized Extracts:** For OA, look for the specific patented extract (Q-Actin™) used in clinical trials.
+
+---
+
+## 10.0 Quality Control & Product Selection
 
 ### Standardization Requirements
 
@@ -373,7 +402,7 @@ Cucumber demonstrates surprising medicinal potential beyond its culinary use. Cl
 
 ---
 
-## 10.0 Version History
+## 11.0 Version History
 
 ### Version 1.1 - November 11, 2025
 

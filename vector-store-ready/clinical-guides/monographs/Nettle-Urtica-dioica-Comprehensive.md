@@ -55,11 +55,24 @@ clinical_alert: "CRITICAL: Distinguish between ROOT (BPH) and LEAF (Allergies/In
 
 # Urtica dioica (Stinging Nettle): Comprehensive Clinical Monograph
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Root:** Benign Prostatic Hyperplasia (BPH), LUTS. **Leaf:** Allergic Rhinitis, Osteoarthritis, Type 2 Diabetes (Adjunct). |
+| **Key Constituents** | **Root:** Lignans (SHBG binding), Sterols (β-sitosterol), Agglutinin (UDA). **Leaf:** Flavonoids (Quercetin), Phenolic acids, Minerals (Ca, K, Fe). |
+| **Mechanism of Action** | **Root:** 5α-reductase inhibition, Aromatase inhibition, SHBG blockade. **Leaf:** NF-κB inhibition, H1 antagonism, Mast cell stabilization. |
+| **Evidence Grade** | **BPH (Root):** Grade B (Strong). **Allergies (Leaf):** Grade C (Mixed). **Diabetes (Leaf):** Grade B-. |
+| **Safety Profile** | Generally safe. **Pregnancy:** Contraindicated (Abortifacient risk). **Lactation:** Caution. **Side Effects:** GI upset, rare galactorrhea. |
+| **Drug Interactions** | **Diuretics:** Additive effect (monitor BP/electrolytes). **Antidiabetics:** Additive hypoglycemia. **CNS Depressants:** Potential synergy. |
+| **Dosing** | **Root (BPH):** 300-600 mg extract (standardized) or 4-6 g dried root daily. **Leaf (Allergy):** 300-600 mg freeze-dried leaf BID/TID. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Stinging Nettle (Urtica dioica) with critical emphasis on part-specific applications (root vs. leaf). All PubMed citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 ## [semantic_index] Semantic Index (Section Map)
 
 - [botanical_identity] Botanical Identity & Part-Specific Phytochemical Architecture
+- [supply_chain] Supply Chain & Market Ethics
 - [mechanisms] Mechanisms of Action: Multi-Target Pharmacology
 - [bph] Human Clinical Evidence: Benign Prostatic Hyperplasia (Grade B)
 - [allergic_rhinitis] Human Clinical Evidence: Allergic Rhinitis (Grade C)
@@ -73,6 +86,24 @@ clinical_alert: "CRITICAL: Distinguish between ROOT (BPH) and LEAF (Allergies/In
 - [case_studies] Case Studies: Clinical Pearls & Pitfalls
 - [research] Research Frontiers: Next 5 Years
 - [summary] Summary & Clinical Bottom Line
+
+---
+
+## Supply Chain & Market Ethics
+
+### 1. Sourcing & Sustainability
+*   **Primary Sources:** Eastern Europe (Bulgaria, Albania, Poland), Germany, and wild-harvested in North America.
+*   **Wildcrafting vs. Cultivation:** Both are common. Nettle is a hardy, invasive perennial that thrives in nitrogen-rich soil.
+*   **Sustainability Concerns:** generally low risk due to rapid growth and abundance. However, wildcrafting must be done away from roadsides and industrial areas due to nettle's bio-accumulating nature.
+
+### 2. Adulteration & Quality
+*   **Bioaccumulation:** Nettle is a dynamic accumulator of heavy metals (lead, cadmium, arsenic) and nitrates. Sourcing from pristine environments is **critical**.
+*   **Species Confusion:** *Urtica urens* (Dwarf Nettle) is often interchanged or mixed with *Urtica dioica*. While chemically similar, *U. dioica* is the primary species for BPH research.
+*   **Part Substitution:** The most critical quality issue is the **confusion between ROOT and LEAF**. Products must explicitly state the plant part, as their chemistry and indications are distinct.
+
+### 3. Ethical Considerations
+*   **Labor:** Wild-harvesting can be labor-intensive and low-paid. Fair trade certifications ensure equitable compensation for collectors.
+*   **Environmental:** Nettle patches support significant biodiversity (butterfly larvae). Sustainable harvesting leaves sufficient biomass for regeneration and habitat.
 
 ---
 

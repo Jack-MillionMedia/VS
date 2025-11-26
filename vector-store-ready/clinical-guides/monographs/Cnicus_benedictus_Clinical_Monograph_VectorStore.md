@@ -42,6 +42,18 @@ study_counts:
 clinical_alert: "⚠️ LOW EVIDENCE: No robust human trials support efficacy. High doses cause vomiting. Avoid in pregnancy."
 ---
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Dyspepsia/Appetite** (Traditional), **Lactation** (Low Evidence). |
+| **Key Constituents** | **Cnicin** (Bitter), **Arctigenin**, **Flavonoids**, **Tannins**. |
+| **Mechanism of Action** | **Bitter Tonic** (Vagus Stimulation), **Anti-inflammatory** (NF-kB), **Neuroregeneration** (Preclinical). |
+| **Evidence Grade** | **Low:** Traditional Use Only. No robust RCTs. |
+| **Safety Profile** | **Emetic at High Doses**. **Abortifacient Risk** (Pregnancy Contraindicated). |
+| **Drug Interactions** | **Anticoagulants** (Theoretical). **CYP2C9/2D6/3A4** (Predicted). |
+| **Dosing** | **1.5-3 g** Dried Herb (Tea). **Bitter Taste Essential**. |
+
 ## Main Topic
 
 *Cnicus benedictus* (blessed thistle) is a bitter Asteraceae herb historically used as an appetite stimulant, digestive aid and general tonic. Modern research has characterized a rich phytochemical profile and striking preclinical activities (hepatoprotective, anti-inflammatory, anticancer, neuroregenerative), but there is **no robust human clinical trial evidence** supporting most traditional or novel indications. Regulatory approvals (e.g., Commission E, EMA) for short-term use in loss of appetite and mild dyspepsia are based on long-standing use rather than modern RCTs.
@@ -179,6 +191,13 @@ clinical_alert: "⚠️ LOW EVIDENCE: No robust human trials support efficacy. H
 *   **Form:** Dried herb for tea (traditional) or liquid extract.
 
 ---
+
+## Quality, Supply Chain & Market Ethics
+
+**Market Status:** High adulteration risk.
+**Supply Chain:** Wild-crafted and cultivated.
+**Quality Concerns:** Variability in cnicin content. "Blessed Thistle" products often lack authentic *Cnicus benedictus*.
+**Ethics:** Sustainable wild-crafting practices are important.
 
 ## Research Gaps & Future Directions
 

@@ -76,6 +76,16 @@ study_counts:
 
 ## Executive Summary
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Aloe barbadensis* (Aloe vera); Leaf Gel (topical) & Latex (internal). |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. Latex: electrolyte risk, pregnancy contraindication. Gel: generally safe. |
+| **Efficacy** | Clinical strength rated? | **Yes**. Constipation (Grade A); Burns (Grade B); Diabetes (Grade C). |
+| **History** | **Traditional Use** context included? | **Yes**. Ancient Egyptian "Plant of Immortality"; Ayurvedic "Ghritkumari". |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Widely cultivated; labor practices in large plantations relevant. |
+
 Aloe vera is a succulent medicinal plant used internally (primarily its dried leaf latex) and externally (clear inner gel) for a variety of clinical indications. Its anthraquinone-rich latex is a potent stimulant laxative for short-term constipation, while the polysaccharide-rich gel is applied topically for burns and skin wounds and investigated for metabolic and inflammatory conditions.
 
 **Evidence-Based Efficacy:**
@@ -1295,6 +1305,19 @@ In most jurisdictions:
 - Overturn indicates complexity of proving harm
 - Clinicians should stay updated as regulatory positions may evolve
 
+### Supply Chain & Market Ethics
+
+**Adulteration Risk:**
+- **Medium Risk:** While *Aloe vera* is abundant, commercial "aloe gel" products are frequently adulterated with maltodextrin, water, and thickeners (carbomer) to mimic the mucilaginous texture.
+- **Identity Check:** Authentic aloe gel should contain acemannan (verified by NMR or IASC certification).
+
+**Sustainability & Sourcing:**
+- **CITES Status:** *Aloe vera* (L.) Burm.f. is **EXEMPT** from CITES regulation. However, all other *Aloe* species (e.g., *Aloe ferox*) are listed in Appendix II or I and require permits.
+- **Sourcing:** Widely cultivated globally (Mexico, China, USA, Dominican Republic). Not wild-harvested at scale, reducing ecological impact.
+- **Certifications:**
+    - **IASC (International Aloe Science Council):** The gold standard for verifying aloe content and purity.
+    - **Organic:** Widely available for cultivated aloe.
+
 ---
 
 ## Clinical Protocols and Practice Guidelines
@@ -1671,6 +1694,20 @@ The evidence base for aloe includes:
 All major claims in this monograph are grounded in published peer-reviewed research with proper attribution to PubMed sources.
 
 ---
+
+## Supply Chain and Market Ethics
+
+### Sustainability Status
+*Aloe vera* is one of the most widely cultivated medicinal plants globally. It is not threatened in the wild due to massive agricultural production.
+*   **Cultivation:** Grown extensively in tropical and subtropical regions (Mexico, Texas, Caribbean, India).
+
+### Adulteration and Quality
+*   **Adulteration Risk:** Moderate (Processed Products). While the plant itself is distinct, processed gels and juices are often diluted or adulterated with maltodextrin, water, or other fillers.
+*   **Identity:** "Whole Leaf" extracts contain latex (anthraquinones) and are laxative; "Inner Fillet" gels should be free of anthraquinones (or <10 ppm) for topical or non-laxative internal use.
+
+### Purchasing Advice
+*   **Certification:** Look for IASC (International Aloe Science Council) certification for purity and content.
+*   **Form:** Distinguish clearly between "Leaf Gel" (soothing) and "Latex/Whole Leaf" (laxative).
 
 ## References
 

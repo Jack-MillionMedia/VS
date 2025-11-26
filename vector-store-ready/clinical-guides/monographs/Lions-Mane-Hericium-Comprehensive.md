@@ -57,6 +57,17 @@ clinical_alert: "⚠️ NEUROGENESIS TIMELINE: Benefits require 8-16 weeks of co
 
 # Lion's Mane (*Hericium erinaceus*) — Clinical Monograph
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Hericium erinaceus*. Fruiting Body vs. Mycelium distinction is critical. |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. GRAS status. Rare mushroom allergies. Safe for long-term use. |
+| **Efficacy** | Clinical strength rated? | **Yes**. MCI & Anxiety (Grade B); Neuropathy (Grade C). |
+| **History** | **Traditional Use** context included? | **Yes**. TCM "Monkey Head"; Culinary delicacy; "Mountain Priest" mushroom. |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Cultivated (Sustainable). **"Mycelium on Grain"** quality issue. |
+
+
 **DOCUMENT CONTEXT:** This clinical monograph provides healthcare professionals with evidence-based information on Lion's Mane (*Hericium erinaceus*), a medicinal mushroom with robust clinical evidence for cognitive enhancement, nerve regeneration, and neuroprotection. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 ## [semantic_index] Semantic Index
@@ -76,6 +87,29 @@ clinical_alert: "⚠️ NEUROGENESIS TIMELINE: Benefits require 8-16 weeks of co
 - [quality] Quality Control and Selection
 - [pearls] Clinical Pearls
 - [references] References
+
+## [supply_chain] Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **Moderate**
+*   **"Mycelium on Grain" (MOG):** The primary quality issue. Many US-grown products are mycelium grown on grain (rice/oats) and not separated. The final product is largely starch with low bioactive compounds.
+*   **Differentiation:** **Fruiting Body** contains Hericenones; **Pure Mycelium** (liquid culture) contains Erinacines. MOG often lacks both in sufficient quantities.
+*   **Testing:** Iodine starch test can reveal MOG (turns black). High Beta-Glucan (>20%) and Low Alpha-Glucan (<5%) indicates high quality.
+
+### Sustainability & Environmental Impact
+**Status:** **Sustainable (Cultivated)**
+*   **Cultivation:** Widely cultivated on hardwood sawdust or logs. Does not rely on wild harvesting, protecting wild populations.
+*   **Sourcing:** Major production in China (fruiting body) and US (often MOG, though some high-quality liquid culture exists).
+
+### Certification & Sourcing Recommendations
+*   **Part Used:** Look for **"Fruiting Body"** extracts or **"Dual Extracts"** (Fruiting Body + Pure Mycelium).
+*   **Standardization:** **Beta-Glucans >20%**. Avoid products that only list "Polysaccharides" (often spiked with starch).
+*   **Extraction:** Dual extraction (Water + Alcohol) is necessary to pull out both beta-glucans (water) and hericenones/erinacines (alcohol).
+
+### Recommended Products
+*   **Cognitive Support:** Dual-extract containing both Hericenones and Erinacines.
+*   **General Health:** Organic Fruiting Body extract.
+
 
 ---
 

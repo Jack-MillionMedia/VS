@@ -61,6 +61,18 @@ clinical_alert: "CRITICAL: Risk of benzodiazepine-like withdrawal syndrome with 
 
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Valerian (Valeriana officinalis) with critical emphasis on the efficacy paradox. All PubMed citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **POCD Prevention** (Grade A), **Medication-Induced Anxiety** (Grade B), **RLS** (Grade B), **Menopausal Symptoms** (Grade B). |
+| **Key Constituents** | **Valerenic Acid** (Marker), **Valepotriates** (Unstable), **GABA** (Trace), **Lignans**. |
+| **Mechanism of Action** | **GABA-A Modulation** (PAM), **5-HT5A Partial Agonist**, **Adenosine A1 Agonist**, **Dopamine D3 Interaction**. |
+| **Evidence Grade** | **Grade A:** POCD Prevention. **Grade B:** Anxiety, RLS, Menopause. **Grade C:** Insomnia (Weak). |
+| **Safety Profile** | **Generally Safe** (Short-term). **Withdrawal Risk** (Chronic use). **Hepatotoxicity** (Rare). |
+| **Drug Interactions** | **CNS Depressants** (High Risk). **CYP450 Substrates** (Moderate/Uncertain). |
+| **Dosing** | **450-900 mg** (Extract). **2-3 g** (Dried Root). **Standardized to 0.8% Valerenic Acid**. |
+
 ## [semantic_index] Semantic Index (Section Map)
 
 - [introduction] INTRODUCTION AND CRITICAL CONTEXT
@@ -1498,7 +1510,14 @@ Evidence strongly suggests that **whole root preparations are significantly more
 
 ---
 
-# 12. CLINICAL SUMMARY AND EVIDENCE-BASED RECOMMENDATIONS
+# 12. Quality, Supply Chain & Market Ethics
+
+**Market Status:** High variability in commercial products. Adulteration with other *Valeriana* species is common.
+**Supply Chain:** Primarily cultivated in Europe (Poland, Germany, Netherlands). Wild-harvesting is less common but exists.
+**Ethics:** Generally low risk of unethical labor, but quality control is the primary ethical concern due to efficacy variability.
+**Adulteration:** Substitution with *Valeriana edulis* or *Valeriana wallichii* (cheaper, different chemistry). Addition of synthetic valerenic acid to meet standardization claims.
+
+# 13. CLINICAL SUMMARY AND EVIDENCE-BASED RECOMMENDATIONS
 
 ## 12.1 Strength of Evidence Summary by Indication
 
@@ -1620,7 +1639,7 @@ Evidence strongly suggests that **whole root preparations are significantly more
 
 ---
 
-# 13. COMPREHENSIVE REFERENCE LIST (Selected Key Studies)
+# 14. COMPREHENSIVE REFERENCE LIST (Selected Key Studies)
 
 ## 13.1 Systematic Reviews and Meta-Analyses
 

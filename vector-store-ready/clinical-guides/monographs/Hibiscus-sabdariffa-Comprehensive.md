@@ -51,6 +51,16 @@ clinical_alert: "Potent antihypertensive effect. Monitor blood pressure closely 
 
 # Hibiscus sabdariffa (Hibiscus) — Evidence-Based Clinical Monograph
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Hibiscus sabdariffa* (Calyx). "Roselle". |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. Safe (Grade A). Hypotension risk with meds. |
+| **Efficacy** | Clinical strength rated? | **Yes**. Hypertension (Grade B); Lipids (Grade B). |
+| **History** | **Traditional Use** context included? | **Yes**. "Karkade" (Egypt), "Jamaica" (Mexico). |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Fair Trade sourcing (Sudan/Nigeria); Pesticides. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Hibiscus (Hibiscus sabdariffa). All citations have been verified with links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 **DISCLAIMER:** This monograph is intended for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified healthcare provider with any questions regarding a medical condition.
@@ -58,6 +68,7 @@ clinical_alert: "Potent antihypertensive effect. Monitor blood pressure closely 
 ## [semantic_index] Semantic Index (Section Map)
 
 - [overview] Overview and Botanical Description
+- [supply_chain] Supply Chain & Market Ethics
 - [phytochemistry] Phytochemistry and Active Constituents
 - [mechanisms] Mechanisms of Action
 - [clinical_evidence] Clinical Evidence by Indication
@@ -87,6 +98,30 @@ Hibiscus has been used traditionally in various cultures for its medicinal prope
 - **Preparation Forms:** Tea (infusion), extracts, capsules, powders
 - **Traditional Use:** Beverage, cardiovascular support, digestive aid
 - **Modern Applications:** Hypertension, hyperlipidemia, metabolic syndrome, antioxidant support
+
+---
+
+## [supply_chain] Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **Low**
+*   **Identity:** Generally authentic due to distinct appearance of calyces.
+*   **Quality:** Risk of "spent" material (post-extraction) being resold as powder.
+*   **Contaminants:** Pesticides in non-organic commercial crops. Fungal contamination if improper drying (mycotoxins).
+
+### Sustainability & Environmental Impact
+**Status:** **Widely Cultivated**
+*   **Sourcing:** Major production in Sudan, Nigeria, China, Thailand, and Mexico.
+*   **Labor:** Labor-intensive harvesting (hand-picked). Fair Trade certification supports ethical labor practices in developing nations.
+
+### Certification & Sourcing Recommendations
+*   **Certified Organic:** **Recommended** to avoid pesticides and ensure cleaner processing.
+*   **Fair Trade:** Supports smallholder farmers in West Africa and Latin America.
+*   **Form:** Whole dried calyces are preferred over powder for verifying quality (color, integrity).
+
+### Recommended Products
+*   **Beverage:** Organic whole dried calyces ("Cut & Sifted"). Deep red color indicates high anthocyanin content.
+*   **Extracts:** Standardized to **Anthocyanins** (e.g., 10 mg per dose) or **Hibiscus Acid**.
 
 ---
 

@@ -98,6 +98,16 @@ Allium sativum (garlic) supplementation provides Grade A evidence for blood pres
 ### Key Safety Warnings
 1. **Bleeding Risk**: Antiplatelet effects require discontinuation 2 weeks before surgery
 2. **CYP3A4 Induction**: Severe interaction with saquinavir (51% AUC reduction)
+
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | Is it the right part of the right species? | **Yes.** **Latin Binomial:** *Allium sativum*. **Plant Part:** Bulb. Allicin potential is key. |
+| **Safety** | Interaction risk? | **High.** Bleeding risk (blood thinner interaction). Severe CYP3A4 interaction (Saquinavir). |
+| **Efficacy** | Human trial data? | **Grade A.** Hypertension (modest effect) and Hyperlipidemia. |
+| **History** | Traditional vs Modern? | **Aligned.** "The Stinking Rose". Used since Ancient Egypt. |
+| **Ethics** | Sustainability/Purity? | **Moderate Risk.** Chinese garlic often bleached. |
 3. **Warfarin Interaction**: Pharmacodynamic bleeding risk despite negative PK trials
 4. **Product Quality**: 87.5% of enteric-coated tablets fail USP dissolution testing
 
@@ -2089,6 +2099,23 @@ In clinical trials, garlic has been safely used as **adjunctive therapy** with a
 - Symptomatic hyperglycemia
 - No adequate response after 12 weeks of garlic
 - Rapid deterioration of glycemic control
+
+---
+
+---
+
+## Section 16b: Supply Chain and Market Ethics
+
+### 16b.1 Sustainability Status
+*   **Cultivation:** Widely cultivated globally. China produces ~80% of the world's garlic.
+*   **Environmental Impact:** Generally low impact, but intensive farming in China has raised soil quality concerns.
+
+### 16b.2 Adulteration and Purity Risks
+*   **Bleaching:** Imported garlic (especially from China) is often bleached with chlorine to appear white and pristine.
+*   **Root Removal:** Roots are often removed to remove soil, but this can damage the bulb basal plate.
+*   **Sprouting Inhibition:** Often treated with growth inhibitors or irradiation to prevent sprouting during long transport.
+
+> **Purchasing Advice:** Seek organic or locally grown garlic ("hardneck" varieties often have better flavor profile). For supplements, Aged Garlic Extract (AGE) has the most consistent safety/efficacy profile.
 
 ---
 

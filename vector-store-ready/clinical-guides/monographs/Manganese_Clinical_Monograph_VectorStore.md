@@ -14,6 +14,20 @@ tags:
 source: "Summarized from the manganese monograph in the todo folder, which itself draws on Food and Nutrition Board AI/UL values, Harvard Nutrition Source, and clinical/nutritional literature on manganese deficiency, toxicity and interactions."
 ---
 
+# Manganese — Clinical Monograph (Vector Store Ready)
+
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Deficiency** (Rare), **Parenteral Nutrition** (Grade A). |
+| **Key Constituents** | **Manganese** (Mn). |
+| **Mechanism of Action** | **Enzyme Cofactor** (SOD, Arginase), **Antioxidant**. |
+| **Evidence Grade** | **Grade A:** Essential Nutrient. |
+| **Safety Profile** | **Neurotoxicity Risk** (Inhalation/Excess). **Safe** at AI. |
+| **Drug Interactions** | **Iron** (Absorption Competition), **Antibiotics** (Chelation). |
+| **Dosing** | **1.8-2.3 mg/day** (AI). **UL:** 11 mg. |
+
 ## Main Topic
 
 Manganese (Mn, atomic number 25) is an essential trace element required in small amounts for human health. It functions mainly as a cofactor for multiple enzymes, including manganese superoxide dismutase, arginase and pyruvate carboxylase, and plays key roles in amino acid, lipid and carbohydrate metabolism, antioxidant defense, bone formation, reproduction and immune function. The body contains ~10–20 mg Mn, with ~25–40% stored in bone; most circulating Mn is bound to transferrin, albumin and α₂‑macroglobulin.
@@ -40,7 +54,7 @@ The Food and Nutrition Board set **Adequate Intakes (AI)** for manganese (insuff
 
 ---
 
-## Dietary Sources
+## Sources, Forms & Supply Chain
 
 Manganese is widely distributed in foods, with richest sources in plant foods:
 

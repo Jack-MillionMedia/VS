@@ -96,6 +96,16 @@ clinical_alert: "CRITICAL: Contraindicated in bile duct obstruction. Discontinue
 
 **Critical Safety Considerations:** Generally safe (FDA GRAS status), but important contraindications include bile duct obstruction, pre-surgical use, and concomitant anticoagulant therapy. Emerging hepatotoxicity concerns link to high-bioavailability formulations with piperine. Significant public health threat from lead chromate adulteration in supply chain.
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | Is it the right part of the right species? | **Yes.** **Latin Binomial:** *Curcuma longa*. **Plant Part:** Rhizome. Distinction between Curcuminoids (polyphenols) and Turmerones (volatiles) is critical. |
+| **Safety** | Interaction risk? | **Moderate.** Contraindicated in bile duct obstruction. Bleeding risk with anticoagulants. Rare hepatotoxicity. |
+| **Efficacy** | Human trial data? | **Grade A.** Osteoarthritis (comparable to NSAIDs) and Ulcerative Colitis (adjunct). |
+| **History** | Traditional vs Modern? | **Aligned.** 4000+ years (Ayurveda/TCM). Modern extracts validate traditional anti-inflammatory use. |
+| **Ethics** | Sustainability/Purity? | **High Risk.** Lead chromate adulteration (neurotoxic) is a documented public health threat. |
+
 ---
 
 ## 1. Botanical Profile and Phytochemistry
@@ -1312,6 +1322,21 @@ The body's rapid conjugation may be protective, not problematic. Piperine formul
 ### 10.3 Final Evidence-Based Recommendation
 
 For patients with osteoarthritis seeking a well-tolerated anti-inflammatory agent with clinical efficacy comparable to NSAIDs and a superior safety profile, standardized Curcuma longa extract (1,000-1,500 mg/day, 90-95% curcuminoids) represents an evidence-based, first-line or adjunctive therapeutic option, provided contraindications (particularly anticoagulant use and gallbladder disease) are absent and products are sourced from reputable, third-party tested manufacturers.
+
+---
+
+## 11. Supply Chain and Market Ethics
+
+### 11.1 Sustainability Status
+*   **Cultivation:** Widely cultivated in India, Southeast Asia, and Central America. Not currently endangered.
+*   **Environmental Impact:** Monoculture farming can lead to soil depletion. Organic cultivation is preferred to minimize pesticide runoff.
+
+### 11.2 Adulteration and Purity Risks
+*   **Lead Chromate (CRITICAL):** A bright yellow industrial pigment (neurotoxic) is sometimes added to raw turmeric roots to enhance color and hide blemishes. This is a severe public health risk, particularly in loose powders from unregulated sources.
+*   **Synthetic Curcumin:** Petrochemical-derived synthetic curcumin is cheaper and often mixed with natural extracts. Carbon-14 testing is required to detect this fraud.
+*   **Fillers:** Starch, chalk, or cassava flour dyed yellow.
+
+> **Purchasing Advice:** Only purchase turmeric products that have been **tested for heavy metals** (specifically lead) by a third-party lab.
 
 ---
 

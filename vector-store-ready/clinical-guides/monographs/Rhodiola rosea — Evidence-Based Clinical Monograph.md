@@ -62,6 +62,18 @@ clinical_alert: "Risk of mania in bipolar disorder. Avoid late dosing to prevent
 
 # *Rhodiola rosea* — Evidence-Based Clinical Monograph
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | Stress-Related Fatigue & Burnout, Mild-to-Moderate Depression, Generalized Anxiety Disorder (GAD), Physical Performance & Recovery. |
+| **Key Constituents** | **Phenylpropanoids** (Rosavin, Rosin, Rosarin), **Phenylethanoids** (Salidroside, p-Tyrosol), Flavonoids, Monoterpenes. |
+| **Mechanism of Action** | **HPA Axis Modulation** (reduces cortisol), **Monoamine Regulation** (inhibits MAO, increases Serotonin/Dopamine), **Antioxidant** & **Neuroprotective**. |
+| **Evidence Grade** | **Grade A:** Stress-Related Fatigue. **Grade B:** Depression, Anxiety. **Grade C:** Physical Performance. |
+| **Safety Profile** | Generally safe. **Contraindicated** in Bipolar Disorder (risk of mania) and Pregnancy. Caution with autoimmune conditions. |
+| **Drug Interactions** | **Moderate Risk:** Inhibits **CYP2C9** (Warfarin, Phenytoin), **CYP2D6**, and **CYP3A4**. Potential interaction with SSRIs/MAOIs. |
+| **Dosing** | **200–600 mg/day** of standardized extract (3% Rosavins, 1% Salidroside). Best taken in the morning to avoid insomnia. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Rhodiola rosea (golden root, Arctic root). All PubMed/PMC citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 **MEDICAL DISCLAIMER**: This monograph is intended for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified healthcare provider with any questions you may have regarding a medical condition.
@@ -95,7 +107,26 @@ clinical_alert: "Risk of mania in bipolar disorder. Avoid late dosing to prevent
 - [comparative] Comparative Analysis vs. Standard of Care
 - [preclinical] Preclinical Research Frontiers
 - [clinical_decisions] Clinical Decision Rules & Case Studies
+- [supply_chain] Supply Chain & Market Ethics
 - [bibliography] Bibliography & Source Audit Log
+
+---
+
+## [supply_chain] Supply Chain & Market Ethics
+
+### Sourcing & Sustainability
+*   **Habitat & Harvest:** *Rhodiola rosea* is native to the high-altitude, arctic regions of Europe (Scandinavia), Asia (Siberia, China), and North America. It is a slow-growing perennial that takes several years to reach maturity.
+*   **Wild-Harvesting Concerns:** Due to high global demand, wild populations in Russia and China have been severely overharvested, leading to its listing as a threatened or endangered species in several regions.
+*   **Cultivation:** To reduce pressure on wild populations, commercial cultivation has been established in Scandinavia, Eastern Europe, and North America (Canada, Alaska). Sourcing from cultivated stock is strongly preferred for sustainability.
+
+### Adulteration & Quality
+*   **Species Substitution:** The most common issue is substitution with other *Rhodiola* species, such as *Rhodiola crenulata*, which contains salidroside but lacks the characteristic rosavins found in *R. rosea*.
+*   **Synthetic Spiking:** Some low-quality extracts may be "spiked" with synthetic salidroside or rosavin to meet standardization claims without using genuine plant material.
+*   **Standardization:** High-quality extracts should be standardized to contain at least **3% rosavins** and **1% salidroside**. Ratios of these compounds are critical for authenticity verification.
+
+### Ethical Considerations
+*   **Conservation Status:** Clinicians should prioritize products that are Certified Organic or sustainably wild-crafted with verified traceability to ensure they are not contributing to the depletion of wild alpine ecosystems.
+*   **Fair Trade:** Supporting suppliers who engage in fair trade practices ensures that harvesters in remote mountain communities are compensated fairly for their labor and knowledge.
 
 ---
 

@@ -77,6 +77,16 @@ study_counts:
 
 ## Document Overview and Purpose
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Uncaria tomentosa* (Cat's Claw); Inner Bark/Root. |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. Autoimmune contraindication (Absolute); CYP3A4 interactions. |
+| **Efficacy** | Clinical strength rated? | **Yes**. Rheumatoid Arthritis (Grade B); Chemo Support (Grade B). |
+| **History** | **Traditional Use** context included? | **Yes**. Amazonian "Life-Giving" herb; Asháninka tradition. |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Overharvesting risk; CITES Appendix II (check status). |
+
 This comprehensive clinical monograph compiles the complete evidence base for cat's claw (*Uncaria tomentosa*) for healthcare practitioners and clinical researchers. All PubMed/PMC citations have been verified for accuracy. The document includes:
 
 - **Evidence grading system** (A through D) based on systematic reviews and meta-analyses
@@ -361,6 +371,29 @@ Fourth, check for contaminants. As with many herbs, there is a risk of pesticide
 | **Heavy Metals/Microbiologicals** | ICP-MS, microbiological culture | Meets USP/EP limits | Contamination | [[16](https://www.healthline.com/nutrition/cats-claw)] |
 
 By utilizing this checklist, clinicians can guide patients toward safer and more effective products, minimizing the risks associated with poor-quality or misidentified herbal supplements.
+
+---
+
+## Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **High**
+*   **Species Substitution:** *Uncaria guianensis* is frequently substituted for *Uncaria tomentosa*. While both are used traditionally, they have different chemical profiles (*U. guianensis* lacks POAs).
+*   **Chemotype Confusion:** The presence of Tetracyclic Oxindole Alkaloids (TOAs) antagonizes the immune effects of Pentacyclic Oxindole Alkaloids (POAs). Many commercial products do not distinguish between chemotypes.
+*   **Part Substitution:** Leaves or twigs may be mixed with the more potent inner bark.
+
+### Sustainability & Environmental Impact
+**Status:** **High Concern / Vulnerable**
+*   **Overharvesting:** Wild populations in the Amazon have been severely depleted due to global demand. Destructive harvesting (cutting the whole vine) kills the plant.
+*   **CITES Status:** Not currently listed on CITES, but export is regulated by Peruvian law (requiring management plans).
+*   **Ecological Impact:** Loss of *Uncaria* vines disrupts the rainforest canopy ecosystem.
+
+### Certification & Sourcing Recommendations
+*   **FairWild / Sustainably Harvested:** Look for products sourced from managed forests or cultivation projects that use sustainable harvesting methods (taking only side branches or bark strips).
+*   **Chemotype Certified:** "TOA-Free" or "POA-Rich" certification is essential for clinical efficacy in immune conditions.
+*   **Traceability:** Brands should provide traceability to the specific region and harvesting community (e.g., Asháninka partnerships).
+
+---
 
 ## Source Audit Log & Bibliography
 

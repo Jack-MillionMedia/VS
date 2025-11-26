@@ -39,6 +39,20 @@ study_counts:
 clinical_alert: "⚠️ MASKING WARNING: High dose folic acid (>1mg) can mask Vitamin B12 deficiency anemia while neurological damage progresses. Always rule out B12 deficiency before treating megaloblastic anemia."
 ---
 
+# Folic Acid (Vitamin B9): Comprehensive Clinical Monograph - Evidence-Based Review
+
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **NTD Prevention** (Grade A), **Megaloblastic Anemia** (Grade A), **Methotrexate Toxicity** (Grade A). |
+| **Key Constituents** | **Folic Acid** (Synthetic), **5-MTHF** (Bioactive). |
+| **Mechanism of Action** | **One-Carbon Metabolism**, **DNA Synthesis**, **Methylation**. |
+| **Evidence Grade** | **Grade A:** Strong Evidence for NTDs & Anemia. |
+| **Safety Profile** | **Safe**. **Masking B12 Deficiency** risk (>1mg). |
+| **Drug Interactions** | **Methotrexate** (Antagonist), **Antiepileptics** (Depletion). |
+| **Dosing** | **400-800 mcg/day** (Prevention). **1-5 mg** (Anemia). |
+
 ## Clinician TL;DR
 
 - **What it is**: Folic acid is the **synthetic, oxidized form of folate (vitamin B9)** used in supplements and fortified foods; it is more **stable and bioavailable** than naturally occurring food folates and is essential for **one-carbon metabolism, nucleotide synthesis, methylation, and early neural tube development**.
@@ -105,7 +119,7 @@ clinical_alert: "⚠️ MASKING WARNING: High dose folic acid (>1mg) can mask Vi
 *   **Form:** **5-MTHF (Methylfolate)** is preferred for patients with MTHFR polymorphisms who cannot efficiently convert folic acid.
 *   **Safety:** Do not exceed 1000 mcg/day (UL) unless under medical supervision for specific indications.
 
-### 7.3 Product Selection Criteria
+### 7.3 Quality, Forms & Supply Chain
 *   **Standard:** USP Verified Folic Acid.
 *   **Bioactive:** L-5-Methyltetrahydrofolate (5-MTHF) for non-responders or MTHFR variants.
 

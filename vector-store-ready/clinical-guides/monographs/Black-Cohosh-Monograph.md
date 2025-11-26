@@ -73,6 +73,16 @@ study_counts:
 
 ## 1. Clinician TL;DR — Black Cohosh Clinical Summary
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Actaea racemosa* (syn. *Cimicifuga racemosa*); Rhizome/Root. |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. Hepatotoxicity signal (rare/idiosyncratic); pregnancy contraindication. |
+| **Efficacy** | Clinical strength rated? | **Yes**. Menopausal vasomotor symptoms (Grade B). |
+| **History** | **Traditional Use** context included? | **Yes**. Native American gynecological aid; "Squawroot". |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Wild-harvested; adulteration with Asian *Actaea* spp. is a major issue. |
+
 ### 1.1. Core Clinical Takeaways — Black Cohosh for Menopause
 
 **Herb:** Black Cohosh (Actaea racemosa, formerly Cimicifuga racemosa)
@@ -802,6 +812,29 @@ There is **no Grade A evidence** (strong evidence from multiple high-quality RCT
 
 ---
 
+## 9.4 Supply Chain & Market Ethics
+
+### 9.4.1 Adulteration & Identity Risks
+**Risk Level:** **High**
+The supply chain for **Black Cohosh** (*Actaea racemosa*) is fraught with adulteration issues.
+*   **Asian Species Substitution:** The most common adulterant is the substitution of North American *Actaea racemosa* with cheaper Asian species (e.g., *Actaea cimicifuga*, *Actaea dahurica*, *Actaea heracleifolia*). These species have different chemical profiles (often containing different triterpene glycosides like cimiracemoside C, which is absent in *A. racemosa*).
+*   **Toxic Adulterants:** Accidental collection of *Actaea pachypoda* (White Baneberry) or *Actaea podocarpa* has been reported, which can be toxic.
+*   **Economic Motivation:** High demand and the lower cost of Asian raw material drive this economically motivated adulteration.
+
+### 9.4.2 Sustainability & Environmental Impact
+**Status:** **At-Risk (United Plant Savers)**
+*   **Wild Harvesting:** The vast majority (estimated >95%) of commercial Black Cohosh is wild-harvested from hardwood forests in the Appalachian region of the United States.
+*   **Conservation Concern:** Over-harvesting has led to population declines. United Plant Savers lists *Actaea racemosa* as an "At-Risk" medicinal plant.
+*   **CITES Status:** Currently, *Actaea racemosa* is **not** listed on CITES appendices, but its conservation status is monitored.
+
+### 9.4.3 Certification & Sourcing Recommendations
+*   **Forest Grown Verified:** Look for "Forest Grown Verified" products which support sustainable forest farming.
+*   **FairWild:** For wild-harvested material, **FairWild** certification ensures sustainable collection and fair labor practices.
+*   **Cultivated Sources:** Supporting the shift to cultivated Black Cohosh is crucial for long-term species survival.
+*   **Analytical Verification:** Suppliers must provide HPLC or DNA testing to prove the absence of Asian *Actaea* markers (e.g., cimifugin) and confirm *Actaea racemosa* identity.
+
+---
+
 ## 10. Clinical Decision Rules — When and How to Use Black Cohosh
 
 ### 10.1. IF/THEN/BECAUSE Statements for Use — Clinical Decision Making for Black Cohosh
@@ -1066,6 +1099,19 @@ Preclinical studies have also suggested that Black Cohosh may have anti-inflamma
 **Exclusion Criteria:** The exclusion criteria were: (1) articles that were not peer-reviewed; (2) articles that were not published in English; (3) studies that did not investigate Black Cohosh; and (4) case reports that did not provide sufficient detail about Black Cohosh.
 
 ---
+
+## 17.5 Supply Chain and Market Ethics
+
+### Sustainability Status
+*Actaea racemosa* is heavily wild-harvested in the Eastern United States. While currently stable, long-term intensive harvest of roots (killing the plant) poses sustainability challenges. United Plant Savers lists it as a "Species at Risk".
+
+### Adulteration and Quality
+*   **Adulteration Risk:** High. Economically motivated adulteration with cheaper Asian species (*Actaea cimicifuga*, *A. dahurica*, etc.) is a significant problem. These related species have different chemical profiles and safety records.
+*   **Identity:** Authentic *Actaea racemosa* contains specific triterpene glycosides (actein, 23-epi-26-deoxyactein) and should NOT contain cimifugin (marker of Asian species).
+
+### Purchasing Advice
+*   **Certification:** Look for "Forest Grown" or cultivated verification to support sustainable populations.
+*   **Testing:** DNA testing or rigorous HPLC profiling is required to rule out Asian species adulteration.
 
 ## 18. Bibliography — References for Black Cohosh Monograph
 

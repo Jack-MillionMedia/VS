@@ -63,6 +63,16 @@ The genus *Vitex* includes multiple species used medicinally, most notably **Vit
 
 ## Clinician TL;DR
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Vitex agnus-castus* (Chaste Tree); Fruit (Berry). |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. Hormonal effects; Contraindicated in Pregnancy. |
+| **Efficacy** | Clinical strength rated? | **Yes**. PMS/PMDD (Grade A); Cyclic Mastalgia (Grade A). |
+| **History** | **Traditional Use** context included? | **Yes**. "Monk's Pepper" (Anaphrodisiac myth); Hormonal regulator. |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Wild-harvested (Mediterranean); Adulteration risk. |
+
 - **Vitex agnus-castus (VAC)**:
   - **Primary indications**: PMS (esp. physical symptoms), cyclic mastalgia, mild hyperprolactinaemia, luteal phase defect, some menstrual irregularities.  
   - **Mechanisms**:
@@ -234,6 +244,27 @@ The genus *Vitex* includes multiple species used medicinally, most notably **Vit
 - **Data**:
   - Sub-acute toxicity studies in animals suggest oral extracts are relatively safe, but **no human safety data** exist.  
   - Contact with sawdust can cause dermatitis; irrelevant to usual clinical use.
+
+---
+
+## Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **Moderate**
+*   **Species Substitution:** *Vitex agnus-castus* berries may be adulterated with other *Vitex* species (*V. negundo*, *V. trifolia*) which have different phytochemical profiles and therapeutic indications.
+*   **Exhausted Material:** "Spent" berries (by-products of essential oil distillation) are sometimes sold as whole fruit powder, lacking the volatile components essential for full efficacy.
+*   **Part Substitution:** Leaves and stems may be mixed with the berries.
+
+### Sustainability & Environmental Impact
+**Status:** **Moderate Concern / Wild-Harvested**
+*   **Wild Harvesting:** A significant portion of global supply is wild-harvested in the Mediterranean region (Albania, Turkey, Morocco). Unregulated harvesting can damage populations.
+*   **Cultivation:** Increasing cultivation to meet demand and ensure consistency.
+*   **CITES Status:** Not listed.
+
+### Certification & Sourcing Recommendations
+*   **Certified Organic:** Recommended to ensure absence of pesticides and traceability.
+*   **Standardized Extracts:** Essential for clinical efficacy (e.g., standardized to casticin or agnuside) to ensure consistent dosing.
+*   **FairWild:** Look for FairWild certified products if sourcing wild-harvested material to ensure sustainable practices and fair labor.
 
 ---
 

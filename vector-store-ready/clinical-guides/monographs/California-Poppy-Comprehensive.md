@@ -46,6 +46,16 @@ study_counts:
 
 # California Poppy (*Eschscholzia californica*) — Clinical Monograph
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Eschscholzia californica*; Aerial parts (Herb). |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. Safe; Non-addictive. Caution with MAOIs/SSRIs. |
+| **Efficacy** | Clinical strength rated? | **Yes**. Insomnia/Anxiety (Grade C - Traditional/Preclinical). |
+| **History** | **Traditional Use** context included? | **Yes**. Native American sedative; State flower of CA. |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Widely cultivated; native populations protected. |
+
 **DOCUMENT CONTEXT:** This clinical monograph provides healthcare professionals with evidence-based information on California poppy (*Eschscholzia californica*), a gentle nervine sedative with centuries of traditional use by indigenous peoples of California and the Southwest. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 ## [semantic_index] Semantic Index
@@ -642,6 +652,26 @@ BECAUSE California poppy is mild; severe conditions may require more intensive t
 - Products without botanical name
 - Extremely cheap products (low quality)
 - No manufacturer information or contact
+
+---
+
+## Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **Low**
+*   **Species Confusion:** While distinct, inexperienced harvesters might confuse it with other poppy species, though the risk is low due to its unique appearance.
+*   **Part Substitution:** Root material is sometimes mixed with aerial parts; while the root is active, the aerial parts are the standard medicinal component.
+
+### Sustainability & Environmental Impact
+**Status:** **Low Concern / Cultivated**
+*   **Cultivation:** Widely cultivated as an ornamental and medicinal plant globally.
+*   **Wild Harvesting:** Wild populations in California are often protected (illegal to harvest on state land). Commercial supply should come from cultivated sources.
+*   **CITES Status:** Not listed.
+
+### Certification & Sourcing Recommendations
+*   **Certified Organic:** Recommended to ensure no pesticide residues.
+*   **Cultivated Sources:** Verify that the product is sourced from cultivated plants, not wild-harvested from protected lands.
+*   **FairWild:** Not typically applicable for this cultivated species.
 
 ---
 

@@ -46,6 +46,16 @@ clinical_alert: "⚠️ NON-OPIOID ANALGESIC: Effective for neuropathic pain wit
 
 # Corydalis (Corydalis yanhusuo) - Clinical Monograph
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Corydalis yanhusuo*; Tuber (Rhizome). |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. Pregnancy Contraindicated; Hepatotoxicity (Rare). |
+| **Efficacy** | Clinical strength rated? | **Yes**. Pain/Neuropathy (Grade C - Strong Preclinical). |
+| **History** | **Traditional Use** context included? | **Yes**. TCM "Blood Mover" for pain. |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Cultivated in China; Adulteration risks. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Corydalis (Corydalis yanhusuo), also known as Yan Hu Suo. All PubMed citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 ## [semantic_index] Semantic Index (Section Map)
@@ -325,7 +335,27 @@ Corydalis demonstrates unique advantage: analgesic effects without tolerance dev
 
 ---
 
-## 8.0 Clinical Practice Guidelines
+## 8.0 Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **Moderate**
+*   **Species Substitution:** Other *Corydalis* species (e.g., *C. decumbens*) may be substituted, which have different alkaloid profiles.
+*   **Processing:** "Vinegar-fried" (*Cu Zhi*) is the traditional medicinal form for pain; raw herb is less potent. Ensure correct processing.
+*   **Heavy Metals:** Sourcing from industrial regions in China requires rigorous heavy metal testing (lead, cadmium, arsenic).
+
+### Sustainability & Environmental Impact
+**Status:** **Cultivated / Sustainable**
+*   **Cultivation:** Widely cultivated in Zhejiang, Hubei, and Hunan provinces of China.
+*   **Wild Harvest:** Rare for commercial supply; cultivation meets demand.
+
+### Certification & Sourcing Recommendations
+*   **Authentication:** Verify *Corydalis yanhusuo* via TLC or HPLC (THP marker).
+*   **Processing:** Look for "Vinegar-Processed" or "Vinegar-Fried" on the Certificate of Analysis for maximum analgesic potency.
+*   **Testing:** Mandatory heavy metal and pesticide screening.
+
+---
+
+## 9.0 Clinical Practice Guidelines
 
 ### 8.1 Patient Selection Criteria
 
@@ -353,7 +383,7 @@ Corydalis demonstrates unique advantage: analgesic effects without tolerance dev
 
 ---
 
-## 9.0 References & Bibliography
+## 10.0 References & Bibliography
 
 ### Primary Studies
 
@@ -365,7 +395,7 @@ Corydalis demonstrates unique advantage: analgesic effects without tolerance dev
 
 ---
 
-## 10.0 Version History
+## 11.0 Version History
 
 ### Version 1.0 - November 10, 2025
 

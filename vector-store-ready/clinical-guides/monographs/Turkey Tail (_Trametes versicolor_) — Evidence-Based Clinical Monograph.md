@@ -57,6 +57,18 @@ clinical_alert: "CRITICAL: Contraindicated in organ transplant recipients due to
 
 # Turkey Tail (_Trametes versicolor_) — Evidence-Based Clinical Monograph
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Oncology Support** (Adjuvant - Grade B), **Gut Health/Microbiome** (Grade B), **Immune Modulation** (Grade B). |
+| **Key Constituents** | **Polysaccharide-K (PSK)**, **Polysaccharopeptide (PSP)**, **Beta-Glucans**, **Ergosterol**. |
+| **Mechanism of Action** | **Immune Modulation** (TLR2/TLR4 Agonists), **Prebiotic** (Increases Bifidobacterium/Lactobacillus), **Direct Anti-tumor**. |
+| **Evidence Grade** | **Grade B:** Oncology (Colorectal, Gastric, Lung), Gut Health. **Grade C:** Chemo Side Effects. |
+| **Safety Profile** | **Generally Safe**. Excellent safety record in long-term studies. |
+| **Drug Interactions** | **CYP2C9 Inhibition** (PSP - Moderate Risk). **Synergistic with Chemotherapy** (Cyclophosphamide). |
+| **Dosing** | **3 g/day** (PSK/PSP Standardized Extract). **1-3 g/day** for Gut Health. |
+
 **Context:** This comprehensive clinical monograph provides evidence-based guidance on Turkey Tail (_Trametes versicolor_), a medicinal mushroom with extensive research supporting its use as an adjuvant therapy in oncology and for gut health modulation. The document covers botanical identity, phytochemistry, pharmacology, clinical applications, dosing protocols, safety profiles, drug interactions, and quality assurance considerations.
 
 ## Identity, Taxonomy, and Botanical Profile
@@ -203,7 +215,7 @@ Interactions with other classes of medication also exist. There is a theoretical
 | **Anticoagulants/Antiplatelets** | PD Interaction   | Theoretical risk of increased bleeding/thrombocytopenia.       | Low risk but theoretical. Caution advised in patients with bleeding/clotting disorders. [[25](https://cancerchoices.org/therapy/turkey-tail-mushroom/safety/), [46](https://www.gaiaherbs.com/blogs/seeds-of-knowledge/turkey-tail-mushroom-side-effects?srsltid=AfmBOoqzim1yvxZm4Fq6JQYJOzkrtI-utSfREQVUxiP1CxRk8PwY6m-K)]                                                                                                                                                 |
 | **Chemotherapy (general)**       | PD Synergism     | Enhances immune-mediated killing and protects healthy tissue.  | Generally beneficial. Improves efficacy and reduces side effects. Requires medical supervision. [[48](https://pmc.ncbi.nlm.nih.gov/articles/PMC7382813/), [55](https://pmc.ncbi.nlm.nih.gov/articles/PMC4684115/)]                                                                                                                                                                                                                                                          |
 
-## Quality Assurance, Standardization, and Market Considerations
+## Quality, Supply Chain & Market Ethics
 
 Navigating the marketplace for _Trametes versicolor_ supplements presents a significant challenge for clinicians and consumers alike, as the quality and potency of products can vary dramatically [[28](https://www.nutraceuticalsworld.com/standardizing-mushroom-supplements/), [33](https://www.foodandnutritionjournal.org/vol04nospl-issue-conf-october-2016/mushroom-biomass-some-clinical-implications-of-%CE%B2-glucans-and-enzymes/)]. Unlike pharmaceutical-grade PSK and PSP, which are subject to stringent manufacturing standards, dietary supplements are not regulated as strictly, leading to inconsistencies in product composition [[24](https://www.mskcc.org/cancer-care/integrative-medicine/herbs/coriolus-versicolor), [28](https://www.nutraceuticalsworld.com/standardizing-mushroom-supplements/)]. Therefore, establishing a framework for quality assurance is paramount to ensure patients receive a safe and effective product. This involves understanding the different forms of the mushroom, the pitfalls of common standardization methods, and the importance of independent verification.
 

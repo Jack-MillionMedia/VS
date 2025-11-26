@@ -46,6 +46,16 @@ study_counts:
 
 # Calendula officinalis — Evidence-Based Clinical Monograph
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Calendula officinalis* (Pot Marigold); Flower (Florets). |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. Compositae allergy (Risk); Safe for topical use. |
+| **Efficacy** | Clinical strength rated? | **Yes**. Wound Healing (Grade B); Radiation Dermatitis (Grade C). |
+| **History** | **Traditional Use** context included? | **Yes**. "Vulnerary" (Wound healer); Lymphatic support. |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Widely cultivated; low sustainability risk. |
+
 **Context:** Calendula officinalis (pot marigold) is a flowering plant in the Asteraceae family with extensive historical and modern clinical use for wound healing, skin inflammation, and radiation dermatitis. Native to the Mediterranean region, it has been validated through multiple randomized controlled trials for topical applications. This monograph synthesizes phytochemistry, clinical evidence, comparative effectiveness, safety data, and practical clinical protocols.
 
 ## Key Therapeutic Highlights
@@ -229,7 +239,30 @@ The following table details the quality control measures, reference standards, a
 | **Loss on Drying**   | Gravimetry                        | EU: Max 12.0%; UKR: Max 14.0%                                                   | Excess moisture                         | Premature microbial growth, degradation | [[10](https://www.researchgate.net/publication/390927513_Modern_Methods_of_Standardization_of_Biologically_Active_Compounds_of_Medicinal_Plant_Raw_Materials_Calendulae_Flos_Chemical_Technologies_Analytical_Indicators)]                                                                                                                                                                                                                                                                                   |
 | **Total Ash**        | Gravimetry                        | EU: Max 10.0%; UKR: Max 11.0%                                                   | Mineral impurities                      | Environmental contamination             | [[10](https://www.researchgate.net/publication/390927513_Modern_Methods_of_Standardization_of_Biologically_Active_Compounds_of_Medicinal_Plant_Raw_Materials_Calendulae_Flos_Chemical_Technologies_Analytical_Indicators)]                                                                                                                                                                                                                                                                                   |
 
-Adulteration can occur at various stages, from cultivation to manufacturing. Potential adulterants include undeclared plant parts, excessive moisture, or mineral impurities [[10](https://www.researchgate.net/publication/390927513_Modern_Methods_of_Standardization_of_Biologically_Active_Compounds_of_Medicinal_Plant_Raw_Materials_Calendulae_Flos_Chemical_Technologies_Analytical_Indicators)]. Good Agricultural and Collection Practice (GACP) guidelines are recommended to maximize the yield of desired phytochemicals like calendulosides and faradiol esters while minimizing pesticide residues and heavy metals [[10](https://www.researchgate.net/publication/390927513_Modern_Methods_of_Standardization_of_Biologically_Active_Compounds_of_Medicinal_Plant_Raw_Materials_Calendulae_Flos_Chemical_Technologies_Analytical_Indicators)]. Extraction methods themselves can introduce variability; for example, freeze-drying has been shown to reduce the extractability of chlorogenic acid compared to non-freeze-dried samples, which could affect the final product's quality [[17](https://www.walshmedicalmedia.com/open-access/assessing-the-quality-of-various-preparations-of-calendula-officinalis-using-high-performance-thin-layer-chromatography-2329-6798.1000115.pdf)]. The choice of excipients in the final formulation, such as preservatives or base ingredients, can also influence the stability and efficacy of the active compounds [[28](https://www.hmpgloballearningnetwork.com/site/wounds/article/9064)]. Therefore, a comprehensive quality control program must extend from the source of the raw material to the final dosage form, employing validated analytical methods to verify identity, purity, and potency.
+Therefore, a comprehensive quality control program must extend from the source of the raw material to the final dosage form, employing validated analytical methods to verify identity, purity, and potency.
+
+---
+
+## Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **Low to Moderate**
+*   **Species Substitution:** Often confused with or substituted by *Tagetes* species (French/African Marigold), which are cheaper and have a different chemical profile (richer in lutein but lacking specific triterpenoids).
+*   **Dye Adulteration:** Poor quality petals may be dyed with synthetic azo dyes (e.g., Tartrazine) to mimic high-quality, vibrant orange flowers.
+*   **Pollen Contamination:** High pollen content can increase allergic potential; high-quality extracts often use only the ray florets (petals) to minimize this risk.
+
+### Sustainability & Environmental Impact
+**Status:** **Low Concern / Sustainable**
+*   **Cultivation:** *Calendula officinalis* is widely cultivated globally as an ornamental and medicinal crop. It is easy to grow, drought-tolerant, and not threatened in the wild.
+*   **CITES Status:** Not listed.
+*   **Regenerative Potential:** It is often used as a cover crop or companion plant in organic farming to attract beneficial insects.
+
+### Certification & Sourcing Recommendations
+*   **Certified Organic:** Essential for concentrated extracts to avoid pesticide concentration.
+*   **FairWild:** Not typically applicable as it is a cultivated crop, but **Fair Trade** certification ensures ethical labor practices.
+*   **Pharmacopoeial Grade:** Look for "Calendulae flos" meeting EP/USP standards for flavonoid and faradiol ester content.
+
+---
 
 ## Clinical Decision Framework
 

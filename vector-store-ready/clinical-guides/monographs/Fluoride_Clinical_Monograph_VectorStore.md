@@ -36,6 +36,20 @@ study_counts:
 clinical_alert: "⚠️ TOXICITY WARNING: Acute toxicity possible with ingestion of large amounts (e.g., toothpaste tubes). Keep out of reach of children. Chronic excess causes fluorosis."
 ---
 
+# Fluoride: Comprehensive Clinical Monograph - Evidence-Based Review
+
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Dental Caries Prevention** (Grade A). |
+| **Key Constituents** | **Fluoride Ion (F⁻)**. |
+| **Mechanism of Action** | **Remineralization** (Fluoroapatite), **Antimicrobial** (Plaque). |
+| **Evidence Grade** | **Grade A:** Strong Evidence for Caries Prevention. |
+| **Safety Profile** | **Safe** at optimal levels (0.7 mg/L). **Toxic** in acute excess. **Fluorosis** risk. |
+| **Drug Interactions** | **Calcium/Antacids** (Reduced Absorption). |
+| **Dosing** | **Water:** 0.7 mg/L. **Toothpaste:** 1000-1500 ppm. |
+
 ## Main Topic
 
 Fluoride (F⁻) is the ionic form of fluorine and occurs naturally in food and drinking water. It is primarily used in public health to prevent dental caries (tooth decay) and is available in water fluoridation programs, dental products and some supplements. At appropriate intakes, fluoride enhances enamel resistance to acid and reduces caries; excessive intake can cause dental or skeletal fluorosis.
@@ -110,7 +124,7 @@ Fluoride (F⁻) is the ionic form of fluorine and occurs naturally in food and d
 *   **Supplements:** Chew or dissolve tablets for local effect before swallowing.
 *   **Infants:** Use low-fluoride water for formula if concern for mild fluorosis exists.
 
-## Sources of Fluoride
+## Sources, Forms & Supply Chain
 
 ### Drinking Water
 

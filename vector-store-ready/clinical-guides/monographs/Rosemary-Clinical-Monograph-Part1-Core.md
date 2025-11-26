@@ -57,6 +57,18 @@ clinical_alert: "Essential oil ingestion can be neurotoxic (seizures). Safe as c
 
 # Rosemary (Salvia rosmarinus) — Evidence-Based Clinical Monograph
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Cognitive Enhancement** (Memory/Focus), **Androgenetic Alopecia**, **Dysmenorrhea**, **Opioid Withdrawal** (Adjunct). |
+| **Key Constituents** | **Phenolic Diterpenes** (Carnosic Acid, Carnosol), **Phenolic Acids** (Rosmarinic Acid), **Volatile Oil** (1,8-Cineole, Camphor, α-Pinene). |
+| **Mechanism of Action** | **AChE Inhibition** (Cognition), **Antioxidant** (Nrf2 activation), **Anti-inflammatory** (COX/LOX inhibition), **5-Alpha-Reductase Inhibition** (Alopecia). |
+| **Evidence Grade** | **Grade B:** Cognition, Alopecia, Dysmenorrhea. **Grade C:** Opioid Withdrawal. |
+| **Safety Profile** | **Generally Safe** as culinary herb. **Caution:** Essential oil ingestion can be neurotoxic (seizures). **Contraindicated** in Pregnancy (high dose). |
+| **Drug Interactions** | **Low/Moderate Risk:** Potential **Iron Absorption Inhibition**. Theoretical interaction with anticoagulants. |
+| **Dosing** | **4-6g dried herb/day** (Tea). **Standardized Extracts:** 500mg bid (Standardized to Carnosic/Rosmarinic Acid). **Topical Oil:** 1mL bid (Alopecia). |
+
 ## [semantic_index] Semantic Index (Section Map)
 
 - [table] Table of Contents
@@ -71,7 +83,7 @@ clinical_alert: "Essential oil ingestion can be neurotoxic (seizures). Safe as c
 - [9] 9. Contraindications & Warnings
 - [10] 10. Drug Interactions
 - [11] 11. Clinical Formulation Strategies
-- [12] 12. Quality, Sourcing & Adulteration
+- [supply_chain] 12. Supply Chain & Market Ethics
 - [executive] Executive Summary
 - [table] Table of Contents
 
@@ -90,7 +102,7 @@ clinical_alert: "Essential oil ingestion can be neurotoxic (seizures). Safe as c
 9. Contraindications & Warnings
 10. Drug Interactions
 11. Clinical Formulation Strategies
-12. Quality, Sourcing & Adulteration
+12. Supply Chain & Market Ethics
 13. Preparation Methods & Best Practices
 14. FAQ (Frequently Asked Questions)
 15. Direct Clinical Guidance (Protocols)
@@ -2837,7 +2849,7 @@ Rosemary is a "team player" herb that works very well in combination:
 
 ---
 
-## 12. Quality, Sourcing & Adulteration
+## 12. Supply Chain & Market Ethics
 
 **Purpose:** Addresses how to ensure high-quality rosemary products.
 

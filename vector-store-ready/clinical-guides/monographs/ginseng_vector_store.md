@@ -90,6 +90,20 @@ clinical_alert: "⚠️ SPECIES SPECIFICITY: Panax ginseng (Asian) is stimulatin
 
 ---
 
+## Executive Summary
+
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | Is it the right part of the right species? | **Critical.** **Latin Binomial:** *Panax ginseng* / *P. quinquefolius*. **Plant Part:** Root. |
+| **Safety** | Interaction risk? | **Moderate.** "Ginseng Abuse Syndrome" (overstimulation). Interaction with MAOIs/stimulants. |
+| **Efficacy** | Human trial data? | **Grade A.** Fatigue, Cognition, Erectile Dysfunction. |
+| **History** | **Traditional Use** vs Modern? | **Aligned.** "King of Tonics". |
+| **Ethics** | Sustainability/Purity? | **Critical Risk.** Wild ginseng is critically endangered (CITES). High pesticide risk in cultivated. |
+
+---
+
 ## Section 1: Botanical Overview and Taxonomy
 
 ### 1.1 Genus Panax - Etymology and Classification
@@ -650,6 +664,24 @@ Look for products that clearly state: specific species name (Panax ginseng or Pa
 
 **Who Should Not Use:**
 Do not use if pregnant, breastfeeding, or planning pregnancy. Use with extreme caution if taking blood thinners or diabetes medications. Avoid if have history of hormone-sensitive cancer, heart rhythm problems, or severe psychiatric conditions. Not recommended for children. Athletes should note WADA prohibition status.
+
+---
+
+---
+
+## Section 23b: Supply Chain and Market Ethics
+
+### 23b.1 Sustainability Status
+*   **Endangered Status:** Wild *Panax ginseng* and *Panax quinquefolius* are **Critically Endangered**. International trade is regulated by CITES (Appendix II).
+*   **Cultivation:** Most commercial ginseng is field-cultivated (3-6 years). "Forest-grown" or "Woods-grown" mimics wild conditions but is sustainable.
+
+### 23b.2 Adulteration and Purity Risks
+*   **Pesticides:** Ginseng is prone to fungal disease; conventional crops are heavily sprayed with fungicides. **Pesticide residues are a major concern.**
+*   **Age Falsification:** Value increases with root age. Sellers often falsify age (e.g., selling 3-year roots as 6-year).
+*   **Species Adulteration:** Cheaper *Panax ginseng* sometimes sold as expensive American Ginseng, or vice versa depending on market trends.
+*   **Extraction Fillers:** Extracts often cut with maltodextrin or other starches.
+
+> **Purchasing Advice:** **NEVER buy wild ginseng** (unethical/illegal). Buy "Certified Organic" or "Forest-Grown" from reputable sources. Verify CITES documentation for international shipments.
 
 ---
 

@@ -44,6 +44,16 @@ clinical_alert: "⚠️ TOXICITY WARNING: Raw berries, leaves, and stems contain
 
 # *Sambucus nigra* / *Sambucus canadensis* (Elderberry) — Complete Evidence-Based Clinical Monograph
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Sambucus nigra*; Fruit (Berry) or Flower. |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. **CRITICAL**: Raw berries TOXIC (Cyanide). |
+| **Efficacy** | Clinical strength rated? | **Yes**. Influenza/Cold (Grade B - Effective). |
+| **History** | **Traditional Use** context included? | **Yes**. "Medicine Chest of the People". |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Adulteration with *S. ebulus* (Toxic). |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Elderberry (Sambucus nigra and Sambucus canadensis). All PubMed/PMC citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 **MEDICAL DISCLAIMER**: This monograph is intended for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified healthcare provider with any questions you may have regarding a medical condition.
@@ -923,6 +933,25 @@ The clinical utility of *Sambucus nigra* is profoundly undermined by pervasive q
 - Warn against raw berry consumption
 - Explain that most commercial products may not contain therapeutic doses
 - Recommend reputable brands with third-party verification
+
+---
+
+## Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **Moderate to High**
+*   **Toxic Adulterant:** *Sambucus ebulus* (Dwarf Elder) is a toxic look-alike that is sometimes harvested by mistake. It contains higher levels of cyanogenic glycosides.
+*   **Identity Testing:** HPTLC or HPLC is required to distinguish *S. nigra* from *S. ebulus* and other species.
+*   **Pigment Adulteration:** "Black Elderberry" extracts are sometimes adulterated with cheaper anthocyanin sources like black rice, black bean, or purple sweet potato to mimic the color and pass basic spectrophotometric tests.
+
+### Sustainability & Environmental Impact
+**Status:** **Sustainable / Cultivated**
+*   **Cultivation:** Widely cultivated in Europe (Austria, Denmark, Italy) and increasingly in the US (*S. canadensis*).
+*   **Wild Harvest:** Still common in Eastern Europe. Sustainable if ethical guidelines followed.
+
+### Certification & Sourcing Recommendations
+*   **Standardization:** Look for "Haschberg" cultivar (European) or verified *S. canadensis* sources.
+*   **Processing:** **CRITICAL**: Must verify that the manufacturing process includes a heat step sufficient to degrade cyanogenic glycosides (sambunigrin). Cold-pressed raw juices may be unsafe.
 
 ---
 

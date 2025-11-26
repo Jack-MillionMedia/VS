@@ -50,6 +50,16 @@ Berberine is a yellow isoquinoline alkaloid found in **Berberis aristata**, **Co
 
 ## Clinician TL;DR
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Berberis* spp. / *Coptis* spp.; Root/Bark/Rhizome. |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. CYP inhibition (high interaction risk); kernicterus risk (infants). |
+| **Efficacy** | Clinical strength rated? | **Yes**. Diabetes, Lipids, Metabolic Syndrome (Grade A). |
+| **History** | **Traditional Use** context included? | **Yes**. TCM (Huang Lian) & Ayurveda (Daruharidra) for "Damp-Heat". |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Overharvesting of wild *Berberis*; CITES status for some species. |
+
 - **Core uses (best evidence)**: Type 2 diabetes (T2DM), metabolic syndrome, dyslipidemia, non-alcoholic fatty liver disease (NAFLD), and polycystic ovary syndrome (PCOS).
 - **Efficacy**:
   - T2DM: Meta-analyses of >4,000 participants show HbA1c reduction ~0.5–0.8%, fasting glucose ~0.8–1.1 mmol/L, and 2‑h postprandial glucose ~1.1–1.3 mmol/L, with improved insulin resistance and modest weight/BMI reductions.
@@ -272,6 +282,20 @@ Berberine is a **high-risk interaction supplement** due to potent inhibition of 
   - These may alter PK and tissue targeting (e.g., joint-specific or brain-directed delivery), but most remain **preclinical or early-stage**; current clinical evidence still primarily involves standard berberine HCl capsules/tablets.
 
 ---
+
+## Supply Chain & Market Ethics
+
+### Sustainability Status
+Berberine is extracted from various species, primarily *Berberis* (Barberry) and *Coptis* (Goldthread).
+*   **Conservation:** Many wild *Berberis* species are overharvested. *Coptis chinensis* is also under pressure. *Hydrastis canadensis* (Goldenseal), another source, is CITES-listed and endangered; berberine should NOT be sourced from Goldenseal for general isolation purposes due to ecological cost.
+
+### Adulteration and Quality
+*   **Synthetic vs. Natural:** Synthetic berberine is increasingly common and chemically identical, often cheaper and more sustainable than wild-harvesting endangered roots.
+*   **Purity:** High-purity Berberine HCl (97%+) is the standard clinical form.
+
+### Purchasing Advice
+*   **Sourcing:** Verify the botanical source. Avoid "Goldenseal-derived" berberine unless cultivated. *Berberis aristata* is a common commercial source.
+*   **Form:** Berberine HCl or Berberine Phytosome (for enhanced absorption).
 
 ## Research Gaps (for Contextual Answers)
 

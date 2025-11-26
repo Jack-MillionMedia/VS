@@ -44,6 +44,18 @@ study_counts:
 clinical_alert: "⚠️ DISTINCT HERBS: Cumin (digestive/metabolic) and Black Cumin (immune/respiratory/metabolic) are distinct. Black Cumin's thymoquinone is a key driver of efficacy."
 ---
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Metabolic Syndrome** (Grade B), **T2DM** (Grade B), **Asthma** (Black Cumin - Grade B). |
+| **Key Constituents** | **Thymoquinone** (Black Cumin), **Cuminaldehyde** (Cumin). |
+| **Mechanism of Action** | **Anti-inflammatory** (NF-kB), **Antioxidant** (Nrf2), **Insulin Sensitizing** (AMPK). |
+| **Evidence Grade** | **Grade B:** Metabolic, Respiratory, Rheumatoid Arthritis. |
+| **Safety Profile** | **Generally Safe**. Caution with high doses in pregnancy. |
+| **Drug Interactions** | **CYP Enzymes** (Thymoquinone). **Additive Hypoglycemic/Hypotensive**. |
+| **Dosing** | **2-3 g** Black Seed. **500 mg** Black Seed Oil. **3 g** Cumin Powder. |
+
 ## Main Topic
 
 The term “cumin” can refer to two distinct botanicals with different chemistry and evidence bases:
@@ -219,7 +231,7 @@ The distinction is critical for retrieval and clinical reasoning, as their bioac
 
 ---
 
-## Quality, Standardization & Adulteration
+## Quality, Supply Chain & Market Ethics
 
 - **Nigella sativa**:
 

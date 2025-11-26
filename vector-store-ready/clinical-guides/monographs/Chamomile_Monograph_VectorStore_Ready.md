@@ -47,6 +47,16 @@ study_counts:
 
 # Matricaria chamomilla (German Chamomile) — Evidence-Based Clinical Monograph
 
+### 360-Degree Summary Checklist
+
+| Dimension | Key Question | Status/Answer |
+| :--- | :--- | :--- |
+| **Identity** | **Latin Binomial** & **Plant Part** verified? | **Yes**. *Matricaria chamomilla* (German Chamomile); Flower. |
+| **Safety** | Toxicology & Contraindications covered? | **Yes**. Asteraceae allergy risk. CYP inhibition potential. |
+| **Efficacy** | Clinical strength rated? | **Yes**. Oral Mucositis (Grade A); Anxiety (Grade B). |
+| **History** | **Traditional Use** context included? | **Yes**. Ancient Egyptian/European "Physician's Herb". |
+| **Ethics** | Sustainability & Sourcing addressed? | **Yes**. Widely cultivated; low sustainability risk. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on German Chamomile (Matricaria chamomilla). All PubMed citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 **DISCLAIMER:** This monograph is intended for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified healthcare provider with any questions regarding a medical condition.
@@ -741,6 +751,27 @@ Apigenin and metabolites undergo extensive UGT conjugation. Theoretical interact
 - Apigenin subject to degradation under various conditions
 - Light exposure, heat, and oxidation affect stability
 - Use fresh preparations for topical applications
+
+---
+
+## Supply Chain & Market Ethics
+
+### Adulteration & Identity Risks
+**Risk Level:** **Moderate**
+*   **Species Confusion:** Often confused with Roman Chamomile (*Chamaemelum nobile*) or Dog Fennel (*Anthemis cotula*), which have different chemical profiles.
+*   **Pollen Contamination:** High pollen content can increase allergic potential. High-quality extracts often use only the flower heads (florets) to minimize this risk.
+*   **Essential Oil Adulteration:** Blue chamazulene content is a marker of quality but can be synthetically added or adulterated with other blue oils (e.g., Yarrow).
+
+### Sustainability & Environmental Impact
+**Status:** **Low Concern / Sustainable**
+*   **Cultivation:** Widely cultivated globally (Egypt, Germany, Argentina, Eastern Europe). Not threatened in the wild.
+*   **CITES Status:** Not listed.
+*   **Regenerative Potential:** Often grown as a rotation crop.
+
+### Certification & Sourcing Recommendations
+*   **Certified Organic:** Recommended to avoid pesticide residues, especially for tea preparations where water solubility of pesticides is a concern.
+*   **Pharmacopoeial Grade:** Look for "Matricariae flos" meeting EP/USP standards for essential oil (blue chamazulene) and apigenin-7-glucoside content.
+*   **Fair Trade:** Important for sourcing from developing regions (e.g., Egypt) to ensure fair labor practices.
 
 ---
 

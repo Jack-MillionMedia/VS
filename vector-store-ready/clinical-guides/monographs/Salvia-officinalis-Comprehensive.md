@@ -58,6 +58,18 @@ clinical_alert: "CRITICAL: Thujone is neurotoxic (seizures). Essential oil inter
 
 # Salvia officinalis (Sage): Comprehensive Clinical Monograph
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Alzheimer's Disease** (Grade A), **Menopausal Hot Flashes** (Grade A), **Cognitive Enhancement** (Grade B). |
+| **Key Constituents** | **Rosmarinic Acid** (AChE inhibitor), **Thujone** (Neurotoxic), **Camphor**, **Carnosic Acid**. |
+| **Mechanism of Action** | **AChE Inhibition**, **Antioxidant**, **Estrogen-Independent** Neurotransmitter Modulation. |
+| **Evidence Grade** | **Grade A:** Strong RCTs for AD & Menopause. |
+| **Safety Profile** | **Thujone Toxicity Risk**. **Avoid Essential Oil Internally**. **Contraindicated in Pregnancy/Epilepsy**. |
+| **Drug Interactions** | **Cholinergics** (Additive), **Anticholinergics** (Antagonistic), **GABAergic Drugs**. |
+| **Dosing** | **AD:** 60 drops/day extract. **Menopause:** 100 mg extract daily. **Tea:** Max 3 cups/day. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Sage (Salvia officinalis) with critical emphasis on thujone toxicity and chemotype variability. All PubMed citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 ## [semantic_index] Semantic Index (Section Map)
@@ -1205,7 +1217,7 @@ What is the primary indication?
 
 ---
 
-## 11. QUALITY CONTROL AND PRODUCT SELECTION FRAMEWORK
+## 11. QUALITY, SUPPLY CHAIN & MARKET ETHICS
 
 ### 11.1 Critical Quality Parameters
 

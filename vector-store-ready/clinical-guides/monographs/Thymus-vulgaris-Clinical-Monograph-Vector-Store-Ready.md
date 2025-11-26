@@ -55,6 +55,18 @@ clinical_alert: "CRITICAL: Potent CYP3A4 Inhibitor (IC50 = 39.14 μg/ml). Use ca
 
 # *Thymus vulgaris* (Thyme) — Evidence-Based Clinical Monograph
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Primary Dysmenorrhea** (Grade A), **Xerostomia** (Grade B), **Pediatric Asthma** (Grade B), **Acute Bronchitis** (Grade B). |
+| **Key Constituents** | **Thymol** (Antimicrobial/Spasmolytic), **Carvacrol**, **Rosmarinic Acid** (Anti-inflammatory). |
+| **Mechanism of Action** | **Antispasmodic** (Ca2+ channel blockade), **Mucolytic**, **Antimicrobial**, **Anti-inflammatory** (NF-κB inhibition). |
+| **Evidence Grade** | **Grade A:** Dysmenorrhea. **Grade B:** Xerostomia, Asthma, Bronchitis. **Grade C:** Cognitive/Mood. |
+| **Safety Profile** | **Generally Safe** (GRAS). **Essential Oil Toxic** if undiluted. |
+| **Drug Interactions** | **Potential CYP3A4 Inhibition** (Thymol). Use caution with narrow therapeutic index drugs. |
+| **Dosing** | **Fluid Extract:** 1-2g. **Essential Oil:** 2% dilution (topical). **Thyme Honey:** Mouth rinse. |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Thyme (Thymus vulgaris). All PubMed/PMC citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 **MEDICAL DISCLAIMER**: This monograph is intended for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified healthcare provider with any questions you may have regarding a medical condition.
@@ -82,7 +94,7 @@ clinical_alert: "CRITICAL: Potent CYP3A4 Inhibitor (IC50 = 39.14 μg/ml). Use ca
 - [protocols] Protocol Cards (Condition-Specific)
 - [comparative] Comparative Analysis (vs. Standard of Care)
 - [clinical_pearls] Clinical Pearls & Practical Application
-- [quality_adulteration] Quality & Adulteration
+- [quality_adulteration] Quality, Supply Chain & Market Ethics
 - [research] Research Frontiers (Next 5 Years)
 - [source_audit] Source Audit Log (Summary Table)
 - [references] Bibliography & References
@@ -596,7 +608,7 @@ This comparison is supported by a high-quality triple-blind RCT providing direct
 
 ---
 
-## Quality & Adulteration
+## Quality, Supply Chain & Market Ethics
 
 ### Quality Control Checklist
 

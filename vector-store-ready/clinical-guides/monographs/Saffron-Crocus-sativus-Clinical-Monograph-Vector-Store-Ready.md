@@ -61,6 +61,18 @@ clinical_alert: "High doses (>5g) are toxic. Avoid therapeutic doses in pregnanc
 
 # *Crocus sativus* (Saffron) — Complete Evidence-Based Clinical Monograph
 
+## 360-Degree Summary Checklist
+
+| Category | Key Clinical Details |
+| :--- | :--- |
+| **Primary Indications** | **Depression** (Grade A), **Alzheimer's Disease** (Grade A), **PMS** (Grade B+), **Anxiety** (Grade B). |
+| **Key Constituents** | **Crocin** (Antioxidant/Pigment), **Crocetin** (Active Metabolite), **Safranal** (Aroma/Mood), **Picrocrocin**. |
+| **Mechanism of Action** | **SSRI-like** (Reuptake Inhibition), **Neurotrophic** (BDNF), **Antioxidant**, **Anti-inflammatory**. |
+| **Evidence Grade** | **Grade A:** High Quality RCTs & Meta-Analyses. |
+| **Safety Profile** | **High Safety Margin** at therapeutic doses (30mg). **Toxic** at high doses (>5g). **Avoid in Pregnancy**. |
+| **Drug Interactions** | **Anticoagulants** (Bleeding Risk), **Antihypertensives** (Additive), **SSRIs** (Theoretical). |
+| **Dosing** | **30 mg/day** Standardized Extract (e.g., Affron®). |
+
 **DOCUMENT CONTEXT:** This comprehensive clinical monograph provides healthcare professionals with evidence-based information on Saffron (*Crocus sativus*). All PubMed/PMC citations have been verified with DOI links to original research. Document optimized for vector store embedding with semantic structure and rich metadata.
 
 **MEDICAL DISCLAIMER**: This monograph is intended for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified healthcare provider with any questions you may have regarding a medical condition.
@@ -924,7 +936,7 @@ Instead, its role is best viewed as a **complementary or adjuvant therapy**. By 
 
 ---
 
-## Quality & Adulteration
+## Quality, Supply Chain & Market Ethics
 
 ### Prevalence of Adulteration
 
